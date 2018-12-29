@@ -1,0 +1,56 @@
+---------------------------------------------------------------
+[ 2018-07-06T10:31:34+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.075290s][吞吐率：13.28req/s] [内存消耗：2,406.88kb] [文件加载：54]
+[ error ] [8]未定义变量: where[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:260]
+---------------------------------------------------------------
+[ 2018-07-06T10:31:40+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.072970s][吞吐率：13.70req/s] [内存消耗：2,406.88kb] [文件加载：54]
+[ error ] [8]未定义变量: where[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:260]
+---------------------------------------------------------------
+[ 2018-07-06T10:32:18+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.071908s][吞吐率：13.91req/s] [内存消耗：2,406.88kb] [文件加载：54]
+[ error ] [8]未定义变量: where[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:260]
+---------------------------------------------------------------
+[ 2018-07-06T10:32:18+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.071212s][吞吐率：14.04req/s] [内存消耗：2,406.88kb] [文件加载：54]
+[ error ] [8]未定义变量: where[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:260]
+---------------------------------------------------------------
+[ 2018-07-06T10:33:55+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.052271s][吞吐率：19.13req/s] [内存消耗：2,406.51kb] [文件加载：54]
+[ error ] [8]未定义变量: where[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:260]
+---------------------------------------------------------------
+[ 2018-07-06T10:35:08+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.033095s][吞吐率：30.22req/s] [内存消耗：1,679.09kb] [文件加载：48]
+[ error ] [1]Call to undefined function app\wallet\controller\length()[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:253]
+---------------------------------------------------------------
+[ 2018-07-06T10:36:00+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.034865s][吞吐率：28.68req/s] [内存消耗：1,673.61kb] [文件加载：48]
+[ error ] [8]未定义变量: where[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:253]
+---------------------------------------------------------------
+[ 2018-07-06T10:36:02+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.033483s][吞吐率：29.87req/s] [内存消耗：1,673.61kb] [文件加载：48]
+[ error ] [8]未定义变量: where[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:253]
+---------------------------------------------------------------
+[ 2018-07-06T10:54:50+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：0.029767s][吞吐率：33.59req/s] [内存消耗：1,313.67kb] [文件加载：38]
+[ error ] [4]语法错误: unexpected '_' (T_STRING)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:310]
+---------------------------------------------------------------
+[ 2018-07-06T10:56:49+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：11.499099s][吞吐率：0.09req/s] [内存消耗：2,422.32kb] [文件加载：53]
+[ error ] [0]method not exist:think\db\Query->file[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:96]
+---------------------------------------------------------------
+[ 2018-07-06T10:59:59+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：9.598626s][吞吐率：0.10req/s] [内存消耗：2,430.30kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'id'  AND  = 'not'  AND  = 1' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-06T11:01:34+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：13.679271s][吞吐率：0.07req/s] [内存消耗：2,430.30kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'id'  AND  = 'enq'  AND  = 1' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-06T14:25:08+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：10.538737s][吞吐率：0.09req/s] [内存消耗：2,437.91kb] [文件加载：54]
+[ error ] [8]未定义数组索引: sbc[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:321]
+---------------------------------------------------------------
+[ 2018-07-06T14:28:31+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：14.457501s][吞吐率：0.07req/s] [内存消耗：2,437.99kb] [文件加载：54]
+[ error ] [8]未定义数组索引: group_id[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:324]

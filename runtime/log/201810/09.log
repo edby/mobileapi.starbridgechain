@@ -1,0 +1,13 @@
+---------------------------------------------------------------
+[ 2018-10-09T11:19:41+08:00 ] 127.0.0.1 GET /wallet/allocation/selectLock
+[ info ] api.com/wallet/allocation/selectLock [è¿è¡Œæ—¶é—´ï¼š0.698782s][ååç‡ï¼š1.43req/s] [å†…å­˜æ¶ˆè€—ï¼š2,778.04kb] [æ–‡ä»¶åŠ è½½ï¼š59]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-10-09T11:20:30+08:00 ] 127.0.0.1 GET /wallet/allocation/selectLock
+[ info ] api.com/wallet/allocation/selectLock [è¿è¡Œæ—¶é—´ï¼š27.131129s][ååç‡ï¼š0.04req/s] [å†…å­˜æ¶ˆè€—ï¼š105,709.70kb] [æ–‡ä»¶åŠ è½½ï¼š58]
+[ error ] [1]Allowed memory size of 134217728 bytes exhausted (tried to allocate 6576366 bytes)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:976]
+---------------------------------------------------------------
+[ 2018-10-09T15:11:11+08:00 ] 127.0.0.1 GET /wallet/newcheckin/calDividend
+[ info ] api.com/wallet/newcheckin/calDividend [è¿è¡Œæ—¶é—´ï¼š21.349687s][ååç‡ï¼š0.05req/s] [å†…å­˜æ¶ˆè€—ï¼š2,585.45kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [2002]SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]

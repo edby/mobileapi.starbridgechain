@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-09-21T15:57:47+08:00 ] 127.0.0.1 GET /wallet/allocation/dividend
+[ info ] api.com/wallet/allocation/dividend [运行时间：1.118680s][吞吐率：0.89req/s] [内存消耗：2,013.02kb] [文件加载：50]
+[ error ] [0]方法参数错误:ip[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\App.php:431]

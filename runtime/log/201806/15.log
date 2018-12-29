@@ -1,0 +1,40 @@
+---------------------------------------------------------------
+[ 2018-06-15T09:40:38+08:00 ] 127.0.0.1 GET /index.php
+[ info ] api.com/index.php [è¿è¡Œæ—¶é—´ï¼š0.053393s][ååç‡ï¼š18.73req/s] [å†…å­˜æ¶ˆè€—ï¼š1,577.16kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [1]Maximum execution time of 60 seconds exceeded[xÚíTën£F~™HŞühÄ%i‚RWÅ8Æƒ‰Áæ2?vƒ=Æ—Ô‡ïHb§Rß H–a.g¾ó]æ&™N’üP|ÿñ}r…Õş÷ûûœñşÛ{7ùãï?\'w7æør{7™N_¬ùt:y¾éû~:ùíÿçòLÿÚ7!ûöÎb¼XœltV‡®ÒcS Ì.‰<«Ÿ°ot‘lô(iSCåk[2’aJ‡ıYCr»Œ2R˜Zú¨eXŒ2K=¥FKûD^bk4%’[ã±Çª äkMMC_¥oš›}ĞiWG™+]K%¯¹çNêÙ<™ùÊ¯VšcÃy–-‡¹ªâuôEõ3CsÖx‹_¾l5ô‹ÅåéŒE9ô”yÑ¬å
+Î)¯y•]éâ¥p<CŸÙS…4›÷×ÇKT™[µ|íT8gVâ„RäØEà=¤‘¾£œOaıçØ›3Ëˆ¤œBIi±w_:k×°7Êm)ğÚâ½·ò¿ÎCóğ[¡H{¹ô¦±G Ñ ÀQì5ÒØƒ¾ö°)(Z
+cËFë;8÷xŒ2»ÂçÓbğn‰Ôˆk”€N”É¡Î`qæ6ĞÛçY+çı¬—œGĞTd‘ì
+«K¿€x¯µYŸŠsƒŞæà²³¸G 6ğRãì‰ó}óµâK®àK"‹õÅë!p®0mAÿÔbÜ«D†¾óÜÔ—1ÖâxåÌ†ÚÀC<Ã~Ø£À8Ò1xüıµ.Õ•^xıìã©%ì-R¼49Î#htÜ;4‰åXæY²1$ÿXWä(s·¾3Î/|gX CnŠ”ü«Ö»¿ÁH0ç/Å×Ÿhû:WùØ=ä¾wı Yb×Üã8[TÈšİ å‹¯ã”eWàÔÑà›ÔĞ7å~Ô*ùº>5€O®õ)ÔTîÑé‹¸h‡Üm@/ĞˆÈnkß«\‡N›bí>YŸLÉŸ­³G•±sÃ÷‚—éêÂ+E[¢ÌíH‚F<¼¾è›ow±7âİ®4L¹ÇÍ®<€Ê`ğXÅûå§¡÷Eü~Ñİ{¢Ÿ9@§óş-áx>ğŞjà~/¼{±|Û
+ÂØï8Ïı÷CØá~Ã×[1hÒ¬R¥ÆØl÷sİ¡rªğÜŞ¼5f8şÜóq/ù 	à:àJ~n¥yÀ»S4Ü/ğ{«ŞwÒ:õ5/»‹A»•nA?ÉZ()ö¬¡ßl˜¢P™Î~\„x]³k›NnoŸÿæQæ(13) : eval()'d code(1) : eval()'d code:7]
+---------------------------------------------------------------
+[ 2018-06-15T09:51:47+08:00 ] 127.0.0.1 POST /wallet/admin/postinter
+[ info ] api.com/wallet/admin/postinter [è¿è¡Œæ—¶é—´ï¼š0.640075s][ååç‡ï¼š1.56req/s] [å†…å­˜æ¶ˆè€—ï¼š2,427.13kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [0]æ•°æ®è¡¨å­—æ®µä¸å­˜åœ¨:[uuid][E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Builder.php:111]
+---------------------------------------------------------------
+[ 2018-06-15T10:46:46+08:00 ] 127.0.0.1 POST /wallet/admin/postinter
+[ info ] api.com/wallet/admin/postinter [è¿è¡Œæ—¶é—´ï¼š0.134942s][ååç‡ï¼š7.41req/s] [å†…å­˜æ¶ˆè€—ï¼š1,658.21kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [2]Illegal string offset 'Body'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:500]
+---------------------------------------------------------------
+[ 2018-06-15T10:47:00+08:00 ] 127.0.0.1 POST /wallet/admin/postinter
+[ info ] api.com/wallet/admin/postinter [è¿è¡Œæ—¶é—´ï¼š0.151349s][ååç‡ï¼š6.61req/s] [å†…å­˜æ¶ˆè€—ï¼š1,658.20kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [8]Trying to get property of non-object[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:500]
+---------------------------------------------------------------
+[ 2018-06-15T10:53:06+08:00 ] 127.0.0.1 POST /wallet/admin/postinter
+[ info ] api.com/wallet/admin/postinter [è¿è¡Œæ—¶é—´ï¼š0.136001s][ååç‡ï¼š7.35req/s] [å†…å­˜æ¶ˆè€—ï¼š1,666.43kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [1]Cannot use object of type stdClass as array[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:500]
+---------------------------------------------------------------
+[ 2018-06-15T11:02:14+08:00 ] 127.0.0.1 GET /index.php
+[ info ] api.com/index.php [è¿è¡Œæ—¶é—´ï¼š0.047432s][ååç‡ï¼š21.08req/s] [å†…å­˜æ¶ˆè€—ï¼š1,577.17kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [1]Maximum execution time of 60 seconds exceeded[xÚíTën£F~™HŞühÄ%i‚RWÅ8Æƒ‰Áæ2?vƒ=Æ—Ô‡ïHb§Rß H–a.g¾ó]æ&™N’üP|ÿñ}r…Õş÷ûûœñşÛ{7ùãï?\'w7æør{7™N_¬ùt:y¾éû~:ùíÿçòLÿÚ7!ûöÎb¼XœltV‡®ÒcS Ì.‰<«Ÿ°ot‘lô(iSCåk[2’aJ‡ıYCr»Œ2R˜Zú¨eXŒ2K=¥FKûD^bk4%’[ã±Çª äkMMC_¥oš›}ĞiWG™+]K%¯¹çNêÙ<™ùÊ¯VšcÃy–-‡¹ªâuôEõ3CsÖx‹_¾l5ô‹ÅåéŒE9ô”yÑ¬å
+Î)¯y•]éâ¥p<CŸÙS…4›÷×ÇKT™[µ|íT8gVâ„RäØEà=¤‘¾£œOaıçØ›3Ëˆ¤œBIi±w_:k×°7Êm)ğÚâ½·ò¿ÎCóğ[¡H{¹ô¦±G Ñ ÀQì5ÒØƒ¾ö°)(Z
+cËFë;8÷xŒ2»ÂçÓbğn‰Ôˆk”€N”É¡Î`qæ6ĞÛçY+çı¬—œGĞTd‘ì
+«K¿€x¯µYŸŠsƒŞæà²³¸G 6ğRãì‰ó}óµâK®àK"‹õÅë!p®0mAÿÔbÜ«D†¾óÜÔ—1ÖâxåÌ†ÚÀC<Ã~Ø£À8Ò1xüıµ.Õ•^xıìã©%ì-R¼49Î#htÜ;4‰åXæY²1$ÿXWä(s·¾3Î/|gX CnŠ”ü«Ö»¿ÁH0ç/Å×Ÿhû:WùØ=ä¾wı Yb×Üã8[TÈšİ å‹¯ã”eWàÔÑà›ÔĞ7å~Ô*ùº>5€O®õ)ÔTîÑé‹¸h‡Üm@/ĞˆÈnkß«\‡N›bí>YŸLÉŸ­³G•±sÃ÷‚—éêÂ+E[¢ÌíH‚F<¼¾è›ow±7âİ®4L¹ÇÍ®<€Ê`ğXÅûå§¡÷Eü~Ñİ{¢Ÿ9@§óş-áx>ğŞjà~/¼{±|Û
+ÂØï8Ïı÷CØá~Ã×[1hÒ¬R¥ÆØl÷sİ¡rªğÜŞ¼5f8şÜóq/ù 	à:àJ~n¥yÀ»S4Ü/ğ{«ŞwÒ:õ5/»‹A»•nA?ÉZ()ö¬¡ßl˜¢P™Î~\„x]³k›NnoŸÿæQæ(13) : eval()'d code(1) : eval()'d code:7]
+---------------------------------------------------------------
+[ 2018-06-15T11:03:52+08:00 ] 127.0.0.1 POST /wallet/admin/postinter
+[ info ] api.com/wallet/admin/postinter [è¿è¡Œæ—¶é—´ï¼š0.040533s][ååç‡ï¼š24.67req/s] [å†…å­˜æ¶ˆè€—ï¼š1,642.38kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [8]Use of undefined constant ddie - assumed 'ddie'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:458]
+---------------------------------------------------------------
+[ 2018-06-15T11:04:10+08:00 ] 127.0.0.1 POST /wallet/admin/postinter
+[ info ] api.com/wallet/admin/postinter [è¿è¡Œæ—¶é—´ï¼š0.089210s][ååç‡ï¼š11.21req/s] [å†…å­˜æ¶ˆè€—ï¼š1,316.88kb] [æ–‡ä»¶åŠ è½½ï¼š38]
+[ error ] [4]è¯­æ³•é”™è¯¯: unexpected '='[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:468]

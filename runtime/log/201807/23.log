@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+[ 2018-07-23T13:57:18+08:00 ] 127.0.0.1 POST /wallet/allocation/bindBtcAddr
+[ info ] api.com/wallet/allocation/bindBtcAddr [运行时间：0.514957s][吞吐率：1.94req/s] [内存消耗：2,426.91kb] [文件加载：54]
+[ error ] [1]Call to a member function order() on a non-object[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:326]
+---------------------------------------------------------------
+[ 2018-07-23T13:57:40+08:00 ] 127.0.0.1 POST /wallet/allocation/bindBtcAddr
+[ info ] api.com/wallet/allocation/bindBtcAddr [运行时间：0.118372s][吞吐率：8.45req/s] [内存消耗：2,427.15kb] [文件加载：54]
+[ error ] [1]Call to a member function order() on a non-object[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:326]

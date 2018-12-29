@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-08-16T14:29:35+08:00 ] 127.0.0.1 POST /wallet/allocation/lockSdt
+[ info ] api.com/wallet/allocation/lockSdt [运行时间：0.184673s][吞吐率：5.41req/s] [内存消耗：2,549.23kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]

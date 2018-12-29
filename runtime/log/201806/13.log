@@ -1,0 +1,136 @@
+---------------------------------------------------------------
+[ 2018-06-13T09:53:02+08:00 ] 127.0.0.1 GET /index.php
+[ info ] api.com/index.php [è¿è¡Œæ—¶é—´ï¼š0.117577s][ååç‡ï¼š8.51req/s] [å†…å­˜æ¶ˆè€—ï¼š1,568.08kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [1]Maximum execution time of 60 seconds exceeded[xÚíTën£F~™HŞühÄ%i‚RWÅ8Æƒ‰Áæ2?vƒ=Æ—Ô‡ïHb§Rß H–a.g¾ó]æ&™N’üP|ÿñ}r…Õş÷ûûœñşÛ{7ùãï?\'w7æør{7™N_¬ùt:y¾éû~:ùíÿçòLÿÚ7!ûöÎb¼XœltV‡®ÒcS Ì.‰<«Ÿ°ot‘lô(iSCåk[2’aJ‡ıYCr»Œ2R˜Zú¨eXŒ2K=¥FKûD^bk4%’[ã±Çª äkMMC_¥oš›}ĞiWG™+]K%¯¹çNêÙ<™ùÊ¯VšcÃy–-‡¹ªâuôEõ3CsÖx‹_¾l5ô‹ÅåéŒE9ô”yÑ¬å
+Î)¯y•]éâ¥p<CŸÙS…4›÷×ÇKT™[µ|íT8gVâ„RäØEà=¤‘¾£œOaıçØ›3Ëˆ¤œBIi±w_:k×°7Êm)ğÚâ½·ò¿ÎCóğ[¡H{¹ô¦±G Ñ ÀQì5ÒØƒ¾ö°)(Z
+cËFë;8÷xŒ2»ÂçÓbğn‰Ôˆk”€N”É¡Î`qæ6ĞÛçY+çı¬—œGĞTd‘ì
+«K¿€x¯µYŸŠsƒŞæà²³¸G 6ğRãì‰ó}óµâK®àK"‹õÅë!p®0mAÿÔbÜ«D†¾óÜÔ—1ÖâxåÌ†ÚÀC<Ã~Ø£À8Ò1xüıµ.Õ•^xıìã©%ì-R¼49Î#htÜ;4‰åXæY²1$ÿXWä(s·¾3Î/|gX CnŠ”ü«Ö»¿ÁH0ç/Å×Ÿhû:WùØ=ä¾wı Yb×Üã8[TÈšİ å‹¯ã”eWàÔÑà›ÔĞ7å~Ô*ùº>5€O®õ)ÔTîÑé‹¸h‡Üm@/ĞˆÈnkß«\‡N›bí>YŸLÉŸ­³G•±sÃ÷‚—éêÂ+E[¢ÌíH‚F<¼¾è›ow±7âİ®4L¹ÇÍ®<€Ê`ğXÅûå§¡÷Eü~Ñİ{¢Ÿ9@§óş-áx>ğŞjà~/¼{±|Û
+ÂØï8Ïı÷CØá~Ã×[1hÒ¬R¥ÆØl÷sİ¡rªğÜŞ¼5f8şÜóq/ù 	à:àJ~n¥yÀ»S4Ü/ğ{«ŞwÒ:õ5/»‹A»•nA?ÉZ()ö¬¡ßl˜¢P™Î~\„x]³k›NnoŸÿæQæ(13) : eval()'d code(1) : eval()'d code:7]
+---------------------------------------------------------------
+[ 2018-06-13T11:14:51+08:00 ] 127.0.0.1 GET /index.php
+[ info ] api.com/index.php [è¿è¡Œæ—¶é—´ï¼š0.114413s][ååç‡ï¼š8.74req/s] [å†…å­˜æ¶ˆè€—ï¼š1,568.08kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [1]Maximum execution time of 60 seconds exceeded[xÚíTën£F~™HŞühÄ%i‚RWÅ8Æƒ‰Áæ2?vƒ=Æ—Ô‡ïHb§Rß H–a.g¾ó]æ&™N’üP|ÿñ}r…Õş÷ûûœñşÛ{7ùãï?\'w7æør{7™N_¬ùt:y¾éû~:ùíÿçòLÿÚ7!ûöÎb¼XœltV‡®ÒcS Ì.‰<«Ÿ°ot‘lô(iSCåk[2’aJ‡ıYCr»Œ2R˜Zú¨eXŒ2K=¥FKûD^bk4%’[ã±Çª äkMMC_¥oš›}ĞiWG™+]K%¯¹çNêÙ<™ùÊ¯VšcÃy–-‡¹ªâuôEõ3CsÖx‹_¾l5ô‹ÅåéŒE9ô”yÑ¬å
+Î)¯y•]éâ¥p<CŸÙS…4›÷×ÇKT™[µ|íT8gVâ„RäØEà=¤‘¾£œOaıçØ›3Ëˆ¤œBIi±w_:k×°7Êm)ğÚâ½·ò¿ÎCóğ[¡H{¹ô¦±G Ñ ÀQì5ÒØƒ¾ö°)(Z
+cËFë;8÷xŒ2»ÂçÓbğn‰Ôˆk”€N”É¡Î`qæ6ĞÛçY+çı¬—œGĞTd‘ì
+«K¿€x¯µYŸŠsƒŞæà²³¸G 6ğRãì‰ó}óµâK®àK"‹õÅë!p®0mAÿÔbÜ«D†¾óÜÔ—1ÖâxåÌ†ÚÀC<Ã~Ø£À8Ò1xüıµ.Õ•^xıìã©%ì-R¼49Î#htÜ;4‰åXæY²1$ÿXWä(s·¾3Î/|gX CnŠ”ü«Ö»¿ÁH0ç/Å×Ÿhû:WùØ=ä¾wı Yb×Üã8[TÈšİ å‹¯ã”eWàÔÑà›ÔĞ7å~Ô*ùº>5€O®õ)ÔTîÑé‹¸h‡Üm@/ĞˆÈnkß«\‡N›bí>YŸLÉŸ­³G•±sÃ÷‚—éêÂ+E[¢ÌíH‚F<¼¾è›ow±7âİ®4L¹ÇÍ®<€Ê`ğXÅûå§¡÷Eü~Ñİ{¢Ÿ9@§óş-áx>ğŞjà~/¼{±|Û
+ÂØï8Ïı÷CØá~Ã×[1hÒ¬R¥ÆØl÷sİ¡rªğÜŞ¼5f8şÜóq/ù 	à:àJ~n¥yÀ»S4Ü/ğ{«ŞwÒ:õ5/»‹A»•nA?ÉZ()ö¬¡ßl˜¢P™Î~\„x]³k›NnoŸÿæQæ(13) : eval()'d code(1) : eval()'d code:7]
+---------------------------------------------------------------
+[ 2018-06-13T11:18:11+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.088304s][ååç‡ï¼š11.32req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T11:18:19+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.053484s][ååç‡ï¼š18.70req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T13:52:35+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.347142s][ååç‡ï¼š2.88req/s] [å†…å­˜æ¶ˆè€—ï¼š2,428.84kb] [æ–‡ä»¶åŠ è½½ï¼š55]
+[ error ] [8]æœªå®šä¹‰å˜é‡: data[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\OrderController.php:699]
+---------------------------------------------------------------
+[ 2018-06-13T14:05:16+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.059535s][ååç‡ï¼š16.80req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T14:05:25+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] tp.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.313317s][ååç‡ï¼š3.19req/s] [å†…å­˜æ¶ˆè€—ï¼š2,419.81kb] [æ–‡ä»¶åŠ è½½ï¼š55]
+[ error ] [2]Invalid argument supplied for foreach()[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:707]
+---------------------------------------------------------------
+[ 2018-06-13T14:05:25+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.062773s][ååç‡ï¼š15.93req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T14:05:32+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.051944s][ååç‡ï¼š19.25req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T14:05:53+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] tp.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.273802s][ååç‡ï¼š3.65req/s] [å†…å­˜æ¶ˆè€—ï¼š2,419.81kb] [æ–‡ä»¶åŠ è½½ï¼š55]
+[ error ] [2]Invalid argument supplied for foreach()[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:707]
+---------------------------------------------------------------
+[ 2018-06-13T14:12:47+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.394490s][ååç‡ï¼š2.53req/s] [å†…å­˜æ¶ˆè€—ï¼š2,421.19kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: ''[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-13T14:14:27+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.361788s][ååç‡ï¼š2.76req/s] [å†…å­˜æ¶ˆè€—ï¼š2,421.19kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: ''[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-13T14:16:23+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.364279s][ååç‡ï¼š2.75req/s] [å†…å­˜æ¶ˆè€—ï¼š2,421.23kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: ''[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-13T14:17:55+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.336908s][ååç‡ï¼š2.97req/s] [å†…å­˜æ¶ˆè€—ï¼š2,421.06kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: ''[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-13T14:18:15+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.337401s][ååç‡ï¼š2.96req/s] [å†…å­˜æ¶ˆè€—ï¼š2,420.59kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user.fd_userName' in 'field list'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-13T14:18:39+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.433606s][ååç‡ï¼š2.31req/s] [å†…å­˜æ¶ˆè€—ï¼š2,420.58kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user.fd_userName' in 'field list'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-13T14:18:58+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.337041s][ååç‡ï¼š2.97req/s] [å†…å­˜æ¶ˆè€—ï¼š2,420.59kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'userAA.fd_userName' in 'field list'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-13T14:19:59+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.356872s][ååç‡ï¼š2.80req/s] [å†…å­˜æ¶ˆè€—ï¼š2,420.58kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'userAA.fd_userName' in 'field list'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-13T14:20:06+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.352213s][ååç‡ï¼š2.84req/s] [å†…å­˜æ¶ˆè€—ï¼š2,420.58kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user.fd_userName' in 'field list'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-13T14:20:52+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.354381s][ååç‡ï¼š2.82req/s] [å†…å­˜æ¶ˆè€—ï¼š2,420.58kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user.fd_userName' in 'field list'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-13T15:13:34+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.056340s][ååç‡ï¼š17.75req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T15:13:38+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.055326s][ååç‡ï¼š18.07req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T15:13:42+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.048263s][ååç‡ï¼š20.72req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T15:27:30+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.059064s][ååç‡ï¼š16.93req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T15:28:37+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.077695s][ååç‡ï¼š12.87req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T15:29:29+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.048733s][ååç‡ï¼š20.52req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T15:30:27+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.067796s][ååç‡ï¼š14.75req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T15:30:35+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.065983s][ååç‡ï¼š15.16req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T15:32:12+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.099012s][ååç‡ï¼š10.10req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T15:32:45+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.159968s][ååç‡ï¼š6.25req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T15:32:54+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.051557s][ååç‡ï¼š19.40req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.58kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-13T17:44:29+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.559326s][ååç‡ï¼š1.79req/s] [å†…å­˜æ¶ˆè€—ï¼š2,479.13kb] [æ–‡ä»¶åŠ è½½ï¼š55]
+[ error ] [1]Call to a member function lastsql() on a non-object[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\OrderController.php:704]

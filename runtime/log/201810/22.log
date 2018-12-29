@@ -1,0 +1,10 @@
+---------------------------------------------------------------
+[ 2018-10-22T10:47:18+08:00 ] 127.0.0.1 POST /wallet/allocation/displayRankings
+[ info ] api.com/wallet/allocation/displayRankings [è¿è¡Œæ—¶é—´ï¼š22.135901s][ååç‡ï¼š0.05req/s] [å†…å­˜æ¶ˆè€—ï¼š2,795.45kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [2002]SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-10-22T10:47:54+08:00 ] 127.0.0.1 POST /wallet/allocation/displayRankings
+[ info ] api.com/wallet/allocation/displayRankings [è¿è¡Œæ—¶é—´ï¼š21.080283s][ååç‡ï¼š0.05req/s] [å†…å­˜æ¶ˆè€—ï¼š2,795.46kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [2002]SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]

@@ -1,0 +1,92 @@
+---------------------------------------------------------------
+[ 2018-07-25T10:00:24+08:00 ] 127.0.0.1 POST /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：0.408258s][吞吐率：2.45req/s] [内存消耗：1,712.58kb] [文件加载：48]
+[ error ] [0]Protocol "	http" not supported or disabled in libcurl[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\curl\Curl.php:43]
+---------------------------------------------------------------
+[ 2018-07-25T10:03:23+08:00 ] 127.0.0.1 POST /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：0.045029s][吞吐率：22.21req/s] [内存消耗：1,712.38kb] [文件加载：48]
+[ error ] [0]Protocol "	http" not supported or disabled in libcurl[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\curl\Curl.php:43]
+---------------------------------------------------------------
+[ 2018-07-25T10:20:26+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：1.108811s][吞吐率：0.90req/s] [内存消耗：6,556.95kb] [文件加载：49]
+[ error ] [2]Invalid argument supplied for foreach()[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:237]
+---------------------------------------------------------------
+[ 2018-07-25T10:20:34+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：1.546141s][吞吐率：0.65req/s] [内存消耗：6,556.96kb] [文件加载：49]
+[ error ] [2]Invalid argument supplied for foreach()[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:237]
+---------------------------------------------------------------
+[ 2018-07-25T10:20:47+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：1.473950s][吞吐率：0.68req/s] [内存消耗：6,557.47kb] [文件加载：49]
+[ error ] [2]Invalid argument supplied for foreach()[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:237]
+---------------------------------------------------------------
+[ 2018-07-25T10:43:43+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：1.530961s][吞吐率：0.65req/s] [内存消耗：4,471.20kb] [文件加载：55]
+[ error ] [8]Undefined property: think\db\Query::$userid[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:244]
+---------------------------------------------------------------
+[ 2018-07-25T10:47:54+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：1.560398s][吞吐率：0.64req/s] [内存消耗：4,482.41kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b7fd7770' in 'where clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-25T10:55:20+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：30.069871s][吞吐率：0.03req/s] [内存消耗：28,939.34kb] [文件加载：55]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:383]
+---------------------------------------------------------------
+[ 2018-07-25T11:18:07+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：5.076182s][吞吐率：0.20req/s] [内存消耗：1,713.35kb] [文件加载：48]
+[ error ] [0]Operation timed out after 5000 milliseconds with 0 bytes received[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\curl\Curl.php:43]
+---------------------------------------------------------------
+[ 2018-07-25T11:29:01+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：30.025514s][吞吐率：0.03req/s] [内存消耗：29,096.08kb] [文件加载：55]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:383]
+---------------------------------------------------------------
+[ 2018-07-25T11:39:20+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：30.029327s][吞吐率：0.03req/s] [内存消耗：27,687.71kb] [文件加载：55]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:383]
+---------------------------------------------------------------
+[ 2018-07-25T12:08:24+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：1,685.868714s][吞吐率：0.00req/s] [内存消耗：15,160.83kb] [文件加载：55]
+[ error ] [8]未定义数组下标: 0[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:245]
+---------------------------------------------------------------
+[ 2018-07-25T13:44:25+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：5.066441s][吞吐率：0.20req/s] [内存消耗：1,714.09kb] [文件加载：48]
+[ error ] [0]Operation timed out after 5016 milliseconds with 0 bytes received[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\curl\Curl.php:43]
+---------------------------------------------------------------
+[ 2018-07-25T13:54:00+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：567.017979s][吞吐率：0.00req/s] [内存消耗：12,043.47kb] [文件加载：55]
+[ error ] [8]未定义数组下标: 0[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:246]
+---------------------------------------------------------------
+[ 2018-07-25T13:59:24+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：3.419006s][吞吐率：0.29req/s] [内存消耗：108,878.13kb] [文件加载：55]
+[ error ] [1]Cannot use object of type stdClass as array[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:248]
+---------------------------------------------------------------
+[ 2018-07-25T14:01:13+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：0.075063s][吞吐率：13.32req/s] [内存消耗：1,343.90kb] [文件加载：38]
+[ error ] [4]语法错误: unexpected 'return' (T_RETURN), expecting function (T_FUNCTION)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:262]
+---------------------------------------------------------------
+[ 2018-07-25T14:01:37+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：0.027595s][吞吐率：36.24req/s] [内存消耗：1,343.90kb] [文件加载：38]
+[ error ] [4]语法错误: unexpected 'return' (T_RETURN), expecting function (T_FUNCTION)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:263]
+---------------------------------------------------------------
+[ 2018-07-25T14:01:38+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：0.051615s][吞吐率：19.37req/s] [内存消耗：1,343.90kb] [文件加载：38]
+[ error ] [4]语法错误: unexpected 'return' (T_RETURN), expecting function (T_FUNCTION)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:263]
+---------------------------------------------------------------
+[ 2018-07-25T14:01:39+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：0.045721s][吞吐率：21.87req/s] [内存消耗：1,343.90kb] [文件加载：38]
+[ error ] [4]语法错误: unexpected 'return' (T_RETURN), expecting function (T_FUNCTION)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:263]
+---------------------------------------------------------------
+[ 2018-07-25T14:02:40+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：3.911357s][吞吐率：0.26req/s] [内存消耗：26,987.52kb] [文件加载：55]
+[ error ] [8]未定义数组索引: 97077FDA76C3958A12D7D5C4F08D167B[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:249]
+---------------------------------------------------------------
+[ 2018-07-25T14:14:49+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：3.701764s][吞吐率：0.27req/s] [内存消耗：4,490.58kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'userid' in 'where clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-25T14:36:46+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：963.118535s][吞吐率：0.00req/s] [内存消耗：15,507.15kb] [文件加载：55]
+[ error ] [8]未定义数组索引: 9442b28bac39778a384ee15d91b7d778[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:248]
+---------------------------------------------------------------
+[ 2018-07-25T15:14:27+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：1,012.507244s][吞吐率：0.00req/s] [内存消耗：13,041.07kb] [文件加载：55]
+[ error ] [8]未定义数组索引: 7bf88366633097f135ed4efbdeca96df[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:249]

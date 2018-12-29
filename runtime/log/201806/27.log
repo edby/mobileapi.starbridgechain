@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2018-06-27T17:42:57+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.417424s][吞吐率：2.40req/s] [内存消耗：2,401.30kb] [文件加载：54]
+[ error ] [8]未定义变量: from_type[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:268]
+---------------------------------------------------------------
+[ 2018-06-27T17:48:05+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.301594s][吞吐率：3.32req/s] [内存消耗：2,396.23kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user.fd_userName' in 'field list'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-27T17:48:27+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.285233s][吞吐率：3.51req/s] [内存消耗：2,401.02kb] [文件加载：54]
+[ error ] [8]未定义变量: from_type[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:267]

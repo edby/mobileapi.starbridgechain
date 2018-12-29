@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+[ 2018-08-31T11:24:29+08:00 ] 127.0.0.1 POST /wallet/trade/buyBTC
+[ info ] api.com/wallet/trade/buyBTC [运行时间：0.087295s][吞吐率：11.46req/s] [内存消耗：2,582.96kb] [文件加载：57]
+[ error ] [8]未定义数组索引: fd_userName[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\TradeController.php:765]
+---------------------------------------------------------------
+[ 2018-08-31T18:13:31+08:00 ] 127.0.0.1 GET /wallet/allocation/preBtcAnalyze
+[ info ] api.com/wallet/allocation/preBtcAnalyze [运行时间：280.470596s][吞吐率：0.00req/s] [内存消耗：12,879.90kb] [文件加载：139]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-08-31T18:18:53+08:00 ] 127.0.0.1 GET /wallet/allocation/preBtcAnalyze
+[ info ] api.com/wallet/allocation/preBtcAnalyze [运行时间：171.619961s][吞吐率：0.01req/s] [内存消耗：12,879.90kb] [文件加载：139]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-08-31T18:25:16+08:00 ] 127.0.0.1 GET /wallet/allocation/preBtcAnalyze
+[ info ] api.com/wallet/allocation/preBtcAnalyze [运行时间：173.734987s][吞吐率：0.01req/s] [内存消耗：12,884.20kb] [文件加载：139]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]

@@ -1,0 +1,24 @@
+---------------------------------------------------------------
+[ 2018-09-14T10:04:37+08:00 ] 127.0.0.1 POST /wallet/newcheckin/getTime
+[ info ] api.com/wallet/newcheckin/getTime [运行时间：0.093559s][吞吐率：10.69req/s] [内存消耗：2,532.34kb] [文件加载：58]
+[ error ] [8]未定义数组索引: end_time[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\NewcheckinController.php:214]
+---------------------------------------------------------------
+[ 2018-09-14T10:57:00+08:00 ] 127.0.0.1 POST /wallet/newcheckin/addEquipmentNum
+[ info ] api.com/wallet/newcheckin/addEquipmentNum [运行时间：0.075383s][吞吐率：13.27req/s] [内存消耗：1,443.06kb] [文件加载：42]
+[ error ] [4]语法错误: unexpected ';'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\NewcheckinController.php:128]
+---------------------------------------------------------------
+[ 2018-09-14T11:06:03+08:00 ] 127.0.0.1 POST /wallet/newcheckin/showDividend
+[ info ] api.com/wallet/newcheckin/showDividend [运行时间：0.101267s][吞吐率：9.87req/s] [内存消耗：2,560.84kb] [文件加载：59]
+[ error ] [8]未定义数组索引: add_num[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\NewcheckinController.php:110]
+---------------------------------------------------------------
+[ 2018-09-14T11:41:01+08:00 ] 127.0.0.1 POST /wallet/newcheckin/bindSn
+[ info ] api.com/wallet/newcheckin/bindSn [运行时间：0.083503s][吞吐率：11.98req/s] [内存消耗：1,801.07kb] [文件加载：53]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-09-14T12:22:34+08:00 ] 127.0.0.1 POST /wallet/extract/balanceMobile
+[ info ] api.com/wallet/extract/balanceMobile [运行时间：0.046357s][吞吐率：21.57req/s] [内存消耗：1,815.63kb] [文件加载：53]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-09-14T12:23:57+08:00 ] 127.0.0.1 POST /wallet/extract/balanceMobile
+[ info ] api.com/wallet/extract/balanceMobile [运行时间：0.038025s][吞吐率：26.30req/s] [内存消耗：1,815.61kb] [文件加载：53]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]

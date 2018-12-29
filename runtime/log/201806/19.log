@@ -1,0 +1,104 @@
+---------------------------------------------------------------
+[ 2018-06-19T09:59:05+08:00 ] 127.0.0.1 POST /wallet/order/getList
+[ info ] api.com/wallet/order/getList [运行时间：0.474218s][吞吐率：2.11req/s] [内存消耗：1,678.09kb] [文件加载：49]
+[ error ] [1]Class 'Redis' not found[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-06-19T11:55:23+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.084549s][吞吐率：11.83req/s] [内存消耗：1,649.79kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T13:45:19+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [运行时间：0.107091s][吞吐率：9.34req/s] [内存消耗：2,383.88kb] [文件加载：54]
+[ error ] [8]未定义变量: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:278]
+---------------------------------------------------------------
+[ 2018-06-19T13:45:41+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [运行时间：0.062789s][吞吐率：15.93req/s] [内存消耗：2,383.88kb] [文件加载：54]
+[ error ] [8]未定义变量: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:278]
+---------------------------------------------------------------
+[ 2018-06-19T13:45:53+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [运行时间：0.064855s][吞吐率：15.42req/s] [内存消耗：2,383.88kb] [文件加载：54]
+[ error ] [8]未定义变量: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:278]
+---------------------------------------------------------------
+[ 2018-06-19T13:59:27+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.398918s][吞吐率：2.51req/s] [内存消耗：2,413.68kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'wallet_transfer_log'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-19T14:07:18+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.422099s][吞吐率：2.37req/s] [内存消耗：2,412.20kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.created_time' in 'where clause'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-19T14:08:37+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.360429s][吞吐率：2.77req/s] [内存消耗：2,412.20kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.created_time' in 'where clause'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-19T14:08:39+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.360599s][吞吐率：2.77req/s] [内存消耗：2,412.20kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.created_time' in 'where clause'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-19T14:08:40+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.372220s][吞吐率：2.69req/s] [内存消耗：2,412.20kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.created_time' in 'where clause'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-19T14:09:00+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.404044s][吞吐率：2.47req/s] [内存消耗：2,412.15kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_time' in 'where clause'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-19T14:09:16+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.425194s][吞吐率：2.35req/s] [内存消耗：2,411.66kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_time' in 'where clause'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-19T14:09:47+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.384438s][吞吐率：2.60req/s] [内存消耗：2,411.14kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fd_col_user_id' in 'where clause'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-19T14:09:58+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.059952s][吞吐率：16.68req/s] [内存消耗：2,378.38kb] [文件加载：54]
+[ error ] [8]未定义变量: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:274]
+---------------------------------------------------------------
+[ 2018-06-19T15:13:17+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.086333s][吞吐率：11.58req/s] [内存消耗：1,646.11kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T15:13:27+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.050460s][吞吐率：19.82req/s] [内存消耗：1,646.11kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T15:14:35+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.096260s][吞吐率：10.39req/s] [内存消耗：1,646.11kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T15:14:43+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.055903s][吞吐率：17.89req/s] [内存消耗：1,646.11kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T15:15:06+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.063759s][吞吐率：15.68req/s] [内存消耗：1,646.11kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T15:16:42+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.092175s][吞吐率：10.85req/s] [内存消耗：1,646.11kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T15:22:28+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.070407s][吞吐率：14.20req/s] [内存消耗：1,646.11kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T15:23:21+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.104381s][吞吐率：9.58req/s] [内存消耗：1,646.11kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T15:24:02+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.053704s][吞吐率：18.62req/s] [内存消耗：1,646.11kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T15:24:49+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.071970s][吞吐率：13.89req/s] [内存消耗：1,646.11kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T15:31:23+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.050519s][吞吐率：19.79req/s] [内存消耗：1,646.11kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]
+---------------------------------------------------------------
+[ 2018-06-19T15:32:21+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [运行时间：0.044609s][吞吐率：22.42req/s] [内存消耗：1,647.13kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:58]

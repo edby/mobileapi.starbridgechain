@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+[ 2018-07-17T10:52:49+08:00 ] 127.0.0.1 POST /wallet/allocation/regist
+[ info ] api.com/wallet/allocation/regist [运行时间：1.122060s][吞吐率：0.89req/s] [内存消耗：2,767.36kb] [文件加载：59]
+[ error ] [0]缺少更新条件[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:2366]
+---------------------------------------------------------------
+[ 2018-07-17T10:59:30+08:00 ] 127.0.0.1 POST /wallet/allocation/regist
+[ info ] api.com/wallet/allocation/regist [运行时间：1.070218s][吞吐率：0.93req/s] [内存消耗：2,767.95kb] [文件加载：59]
+[ error ] [0]缺少更新条件[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:2366]
+---------------------------------------------------------------
+[ 2018-07-17T14:58:51+08:00 ] 127.0.0.1 POST /wallet/allocation/uuid
+[ info ] api.com/wallet/allocation/uuid [运行时间：30.160778s][吞吐率：0.03req/s] [内存消耗：5,875.57kb] [文件加载：54]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:451]
+---------------------------------------------------------------
+[ 2018-07-17T15:11:52+08:00 ] 127.0.0.1 POST /wallet/allocation/uuid
+[ info ] api.com/wallet/allocation/uuid [运行时间：737.637793s][吞吐率：0.00req/s] [内存消耗：5,500.25kb] [文件加载：54]
+[ error ] [8]未定义数组下标: 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:106]

@@ -1,0 +1,65 @@
+---------------------------------------------------------------
+[ 2018-07-19T14:51:28+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：0.117750s][吞吐率：8.49req/s] [内存消耗：1,632.75kb] [文件加载：48]
+[ error ] [1]Class 'app\wallet\controller\date' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:138]
+---------------------------------------------------------------
+[ 2018-07-19T14:59:15+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：0.036480s][吞吐率：27.41req/s] [内存消耗：1,627.91kb] [文件加载：48]
+[ error ] [2]date() expects at least 1 parameter, 0 given[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:138]
+---------------------------------------------------------------
+[ 2018-07-19T15:13:39+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：14.055172s][吞吐率：0.07req/s] [内存消耗：2,382.74kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wkj.profit__s_d_t_year_setting' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-19T15:21:43+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：13.018116s][吞吐率：0.08req/s] [内存消耗：2,382.70kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wkj.profit__s_d_t_year_setting' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-19T15:33:47+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：0.168946s][吞吐率：5.92req/s] [内存消耗：2,355.22kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-19T15:34:02+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：0.316544s][吞吐率：3.16req/s] [内存消耗：2,382.75kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.profit__s_d_t_year_setting' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-19T15:34:33+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：0.243081s][吞吐率：4.11req/s] [内存消耗：2,382.75kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.profit__s_d_t_year_setting' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-19T16:18:37+08:00 ] 127.0.0.1 POST /wallet/order/getListAll
+[ info ] api.com/wallet/order/getListAll [运行时间：0.191590s][吞吐率：5.22req/s] [内存消耗：2,800.66kb] [文件加载：55]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-19T16:21:42+08:00 ] 127.0.0.1 POST /wallet/admin/spuerWallet
+[ info ] api.com/wallet/admin/spuerWallet [运行时间：21.100319s][吞吐率：0.05req/s] [内存消耗：2,772.91kb] [文件加载：54]
+[ error ] [2002]SQLSTATE[HY000] [2002] �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�
+[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-19T16:22:40+08:00 ] 127.0.0.1 POST /wallet/admin/spuerWallet
+[ info ] api.com/wallet/admin/spuerWallet [运行时间：0.198149s][吞吐率：5.05req/s] [内存消耗：2,772.95kb] [文件加载：54]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-19T17:19:44+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：20.385429s][吞吐率：0.05req/s] [内存消耗：2,438.52kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-19T17:20:55+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：15.399225s][吞吐率：0.06req/s] [内存消耗：2,441.41kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:463]
+---------------------------------------------------------------
+[ 2018-07-19T17:25:03+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：14.238357s][吞吐率：0.07req/s] [内存消耗：2,416.80kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'fd_userName'  AND  = 'superUser' LIMIT 1' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-19T17:27:07+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：14.649020s][吞吐率：0.07req/s] [内存消耗：2,445.05kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:463]
+---------------------------------------------------------------
+[ 2018-07-19T17:27:34+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：19.242850s][吞吐率：0.05req/s] [内存消耗：2,445.05kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:463]
+---------------------------------------------------------------
+[ 2018-07-19T17:28:41+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：14.932561s][吞吐率：0.07req/s] [内存消耗：2,542.05kb] [文件加载：58]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:463]

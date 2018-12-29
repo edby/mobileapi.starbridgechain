@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-08-22T16:55:07+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：15.135960s][吞吐率：0.07req/s] [内存消耗：1,831.34kb] [文件加载：49]
+[ error ] [0]Operation timed out after 14984 milliseconds with 1431527 out of 4440149 bytes received[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\curl\Curl.php:43]

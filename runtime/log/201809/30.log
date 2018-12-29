@@ -1,0 +1,14 @@
+---------------------------------------------------------------
+[ 2018-09-30T10:48:19+08:00 ] 127.0.0.1 GET /wallet/allocation/selectLock
+[ info ] api.com/wallet/allocation/selectLock [运行时间：0.596803s][吞吐率：1.68req/s] [内存消耗：2,778.63kb] [文件加载：59]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-09-30T10:59:42+08:00 ] 127.0.0.1 GET /wallet/newcheckin/btcDividend
+[ info ] api.com/wallet/newcheckin/btcDividend [运行时间：7.492137s][吞吐率：0.13req/s] [内存消耗：4,101.84kb] [文件加载：140]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-09-30T11:08:46+08:00 ] 127.0.0.1 GET /wallet/newcheckin/btcDividend
+[ info ] api.com/wallet/newcheckin/btcDividend [运行时间：0.422190s][吞吐率：2.37req/s] [内存消耗：4,102.81kb] [文件加载：140]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]

@@ -1,0 +1,124 @@
+---------------------------------------------------------------
+[ 2018-07-26T09:05:06+08:00 ] 127.0.0.1 POST /wallet/allocation/uuid
+[ info ] api.com/wallet/allocation/uuid [运行时间：0.494138s][吞吐率：2.02req/s] [内存消耗：2,478.27kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.aaa' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-26T11:26:28+08:00 ] 127.0.0.1 GET /wallet/allocation/addSdt
+[ info ] api.com/wallet/allocation/addSdt [运行时间：4.941510s][吞吐率：0.20req/s] [内存消耗：4,512.42kb] [文件加载：55]
+[ error ] [8]未定义数组索引: 97077fda76c3958a12d7d5c4f08d167b[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:273]
+---------------------------------------------------------------
+[ 2018-07-26T11:44:48+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.103966s][吞吐率：9.62req/s] [内存消耗：2,486.66kb] [文件加载：54]
+[ error ] [2]Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:460]
+---------------------------------------------------------------
+[ 2018-07-26T13:50:34+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.381185s][吞吐率：2.62req/s] [内存消耗：2,506.67kb] [文件加载：55]
+[ error ] [1]Cannot use object of type stdClass as array[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:439]
+---------------------------------------------------------------
+[ 2018-07-26T14:03:03+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：1.045781s][吞吐率：0.96req/s] [内存消耗：2,510.06kb] [文件加载：55]
+[ error ] [2]Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:465]
+---------------------------------------------------------------
+[ 2018-07-26T14:18:19+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.968126s][吞吐率：1.03req/s] [内存消耗：2,513.66kb] [文件加载：55]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:351]
+---------------------------------------------------------------
+[ 2018-07-26T14:25:08+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.585986s][吞吐率：1.71req/s] [内存消耗：2,504.70kb] [文件加载：55]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:327]
+---------------------------------------------------------------
+[ 2018-07-26T14:25:36+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.554410s][吞吐率：1.80req/s] [内存消耗：2,504.70kb] [文件加载：55]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:327]
+---------------------------------------------------------------
+[ 2018-07-26T14:26:10+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.562588s][吞吐率：1.78req/s] [内存消耗：2,505.28kb] [文件加载：55]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:327]
+---------------------------------------------------------------
+[ 2018-07-26T15:16:54+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.091794s][吞吐率：10.89req/s] [内存消耗：2,456.98kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:17:27+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.066786s][吞吐率：14.97req/s] [内存消耗：2,456.98kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:17:28+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.076644s][吞吐率：13.05req/s] [内存消耗：2,456.98kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:17:28+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.093529s][吞吐率：10.69req/s] [内存消耗：2,456.98kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:17:30+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.122332s][吞吐率：8.17req/s] [内存消耗：2,456.98kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:17:56+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.071508s][吞吐率：13.98req/s] [内存消耗：2,456.98kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:20:21+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.088809s][吞吐率：11.26req/s] [内存消耗：2,456.98kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:20:22+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.087335s][吞吐率：11.45req/s] [内存消耗：2,456.98kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:20:22+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.070524s][吞吐率：14.18req/s] [内存消耗：2,456.98kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:21:42+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.083798s][吞吐率：11.93req/s] [内存消耗：2,456.98kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:21:45+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.064254s][吞吐率：15.56req/s] [内存消耗：2,458.88kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:22:28+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.059924s][吞吐率：16.69req/s] [内存消耗：2,458.88kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:22:30+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.080121s][吞吐率：12.48req/s] [内存消耗：2,458.88kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:22:32+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.069931s][吞吐率：14.30req/s] [内存消耗：2,458.88kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T15:22:32+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.075367s][吞吐率：13.27req/s] [内存消耗：2,458.88kb] [文件加载：52]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wkj'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-26T16:18:49+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.080866s][吞吐率：12.37req/s] [内存消耗：2,486.40kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.profit_sysSetting' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-26T16:18:52+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.093081s][吞吐率：10.74req/s] [内存消耗：2,486.40kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.profit_sysSetting' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-26T16:19:36+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.892678s][吞吐率：1.12req/s] [内存消耗：2,509.59kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.Profit_SDTYearSetting' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-26T16:20:10+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.655550s][吞吐率：1.53req/s] [内存消耗：2,510.35kb] [文件加载：55]
+[ error ] [2]Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:465]
+---------------------------------------------------------------
+[ 2018-07-26T16:20:58+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.797545s][吞吐率：1.25req/s] [内存消耗：2,536.49kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.Profit_SDTYearSetting' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-26T16:22:03+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.376070s][吞吐率：2.66req/s] [内存消耗：2,492.85kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.profit_sysSetting' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-26T16:40:47+08:00 ] 127.0.0.1 POST /wallet/allocation/transfer
+[ info ] api.com/wallet/allocation/transfer [运行时间：0.090412s][吞吐率：11.06req/s] [内存消耗：2,485.14kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.Profit_SDTYearSetting' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]

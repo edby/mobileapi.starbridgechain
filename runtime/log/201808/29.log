@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+[ 2018-08-29T15:15:36+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.152901s][吞吐率：6.54req/s] [内存消耗：2,639.30kb] [文件加载：55]
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'wallet'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-08-29T15:46:07+08:00 ] 127.0.0.1 GET /wallet/allocation/cal
+[ info ] api.com/wallet/allocation/cal [运行时间：299.007142s][吞吐率：0.00req/s] [内存消耗：7,807.41kb] [文件加载：57]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:809]
+---------------------------------------------------------------
+[ 2018-08-29T16:12:00+08:00 ] 127.0.0.1 GET /wallet/allocation/cal
+[ info ] api.com/wallet/allocation/cal [运行时间：1,445.865276s][吞吐率：0.00req/s] [内存消耗：7,797.70kb] [文件加载：57]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:813]
+---------------------------------------------------------------
+[ 2018-08-29T16:26:16+08:00 ] 127.0.0.1 GET /wallet/allocation/cal
+[ info ] api.com/wallet/allocation/cal [运行时间：1,426.023537s][吞吐率：0.00req/s] [内存消耗：7,798.61kb] [文件加载：57]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:814]

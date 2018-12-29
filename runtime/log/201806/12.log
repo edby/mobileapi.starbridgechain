@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+[ 2018-06-12T17:49:49+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [运行时间：0.152588s][吞吐率：6.55req/s] [内存消耗：1,593.59kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:192]
+---------------------------------------------------------------
+[ 2018-06-12T17:49:51+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [运行时间：0.052765s][吞吐率：18.95req/s] [内存消耗：1,593.60kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:192]
+---------------------------------------------------------------
+[ 2018-06-12T17:50:03+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [运行时间：0.058948s][吞吐率：16.96req/s] [内存消耗：1,593.60kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:192]
+---------------------------------------------------------------
+[ 2018-06-12T17:50:05+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [运行时间：0.064553s][吞吐率：15.49req/s] [内存消耗：1,593.60kb] [文件加载：48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:192]

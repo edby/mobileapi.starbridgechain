@@ -1,0 +1,40 @@
+---------------------------------------------------------------
+[ 2018-08-21T10:45:27+08:00 ] 127.0.0.1 POST /wallet/user/login
+[ info ] api.com/wallet/user/login [运行时间：0.699583s][吞吐率：1.43req/s] [内存消耗：3,182.27kb] [文件加载：66]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-08-21T14:42:17+08:00 ] 127.0.0.1 POST /wallet/Trade/buyBTC
+[ info ] api.com/wallet/Trade/buyBTC [运行时间：0.302126s][吞吐率：3.31req/s] [内存消耗：2,596.91kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'addr_id' cannot be null[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:463]
+---------------------------------------------------------------
+[ 2018-08-21T14:43:00+08:00 ] 127.0.0.1 POST /wallet/Trade/buyBTC
+[ info ] api.com/wallet/Trade/buyBTC [运行时间：0.319657s][吞吐率：3.13req/s] [内存消耗：2,597.13kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'addr_id' cannot be null[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:463]
+---------------------------------------------------------------
+[ 2018-08-21T15:50:58+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [运行时间：0.108082s][吞吐率：9.25req/s] [内存消耗：2,582.59kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user.fd_id' in 'field list'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-08-21T15:51:05+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [运行时间：0.122593s][吞吐率：8.16req/s] [内存消耗：2,582.21kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user.fd_id' in 'field list'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-08-21T16:03:05+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [运行时间：0.145029s][吞吐率：6.90req/s] [内存消耗：2,592.28kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'addtime'  AND  >= '2018-05-17 14:27:31'  AND `type` = ?  AND `userid` = ?' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-08-21T16:03:54+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [运行时间：0.107524s][吞吐率：9.30req/s] [内存消耗：2,592.45kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'addtime'  AND  >= 1526538451  AND `type` = ?  AND `userid` = ?' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-08-21T16:05:21+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [运行时间：0.160402s][吞吐率：6.23req/s] [内存消耗：2,592.49kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'addtime'  AND  >= 1526538451  AND `type` = ?  AND `userid` = ?' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-08-21T16:05:31+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [运行时间：0.148665s][吞吐率：6.73req/s] [内存消耗：2,592.53kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'addtime'  AND  > 1526538451  AND `type` = ?  AND `userid` = ?' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-08-21T16:07:52+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [运行时间：0.116089s][吞吐率：8.61req/s] [内存消耗：2,591.08kb] [文件加载：54]
+[ error ] [0]查询表达式错误:glt[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Builder.php:343]

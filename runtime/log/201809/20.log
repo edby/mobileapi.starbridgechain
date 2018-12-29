@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-09-20T09:08:23+08:00 ] 127.0.0.1 POST /wallet/extract/extractBalance
+[ info ] api.com/wallet/extract/extractBalance [运行时间：0.396475s][吞吐率：2.52req/s] [内存消耗：2,584.45kb] [文件加载：60]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]

@@ -1,0 +1,28 @@
+---------------------------------------------------------------
+[ 2018-10-08T11:22:32+08:00 ] 127.0.0.1 POST /wallet/order/newgetSdtTransferLogList
+[ info ] api.com/wallet/order/newgetSdtTransferLogList [运行时间：0.133288s][吞吐率：7.50req/s] [内存消耗：2,655.68kb] [文件加载：59]
+[ error ] [2]preg_match(): No ending delimiter '@' found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\OrderController.php:379]
+---------------------------------------------------------------
+[ 2018-10-08T11:22:44+08:00 ] 127.0.0.1 POST /wallet/order/newgetSdtTransferLogList
+[ info ] api.com/wallet/order/newgetSdtTransferLogList [运行时间：0.157036s][吞吐率：6.37req/s] [内存消耗：2,655.67kb] [文件加载：59]
+[ error ] [2]preg_match(): No ending delimiter '#' found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\OrderController.php:379]
+---------------------------------------------------------------
+[ 2018-10-08T11:22:57+08:00 ] 127.0.0.1 POST /wallet/order/newgetSdtTransferLogList
+[ info ] api.com/wallet/order/newgetSdtTransferLogList [运行时间：0.132022s][吞吐率：7.57req/s] [内存消耗：2,655.75kb] [文件加载：59]
+[ error ] [2]preg_match(): Delimiter must not be alphanumeric or backslash[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\OrderController.php:379]
+---------------------------------------------------------------
+[ 2018-10-08T11:27:25+08:00 ] 127.0.0.1 POST /wallet/order/newgetSdtTransferLogList
+[ info ] api.com/wallet/order/newgetSdtTransferLogList [运行时间：0.167193s][吞吐率：5.98req/s] [内存消耗：2,655.02kb] [文件加载：59]
+[ error ] [8]未定义变量: aa[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\OrderController.php:381]
+---------------------------------------------------------------
+[ 2018-10-08T11:27:33+08:00 ] 127.0.0.1 POST /wallet/order/newgetSdtTransferLogList
+[ info ] api.com/wallet/order/newgetSdtTransferLogList [运行时间：0.126221s][吞吐率：7.92req/s] [内存消耗：2,654.74kb] [文件加载：59]
+[ error ] [2]var_dump() expects at least 1 parameter, 0 given[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\OrderController.php:380]
+---------------------------------------------------------------
+[ 2018-10-08T11:28:36+08:00 ] 127.0.0.1 POST /wallet/order/newgetSdtTransferLogList
+[ info ] api.com/wallet/order/newgetSdtTransferLogList [运行时间：0.142693s][吞吐率：7.01req/s] [内存消耗：2,654.70kb] [文件加载：59]
+[ error ] [8]未定义数组下标: 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\OrderController.php:377]
+---------------------------------------------------------------
+[ 2018-10-08T15:04:39+08:00 ] 127.0.0.1 GET /wallet/newcheckin/pushAccount
+[ info ] api.com/wallet/newcheckin/pushAccount [运行时间：30.230045s][吞吐率：0.03req/s] [内存消耗：3,136.07kb] [文件加载：58]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:438]

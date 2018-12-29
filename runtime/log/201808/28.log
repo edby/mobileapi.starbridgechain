@@ -1,0 +1,78 @@
+---------------------------------------------------------------
+[ 2018-08-28T11:21:40+08:00 ] 127.0.0.1 GET /wallet/allocation/adminLock
+[ info ] api.com/wallet/allocation/adminLock [运行时间：0.092847s][吞吐率：10.77req/s] [内存消耗：2,627.14kb] [文件加载：57]
+[ error ] [4096]Argument 1 passed to think\db\Query::insertAll() must be of the type array, string given, called in E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php on line 942 and defined[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:2269]
+---------------------------------------------------------------
+[ 2018-08-28T11:31:48+08:00 ] 127.0.0.1 GET /wallet/allocation/adminLock
+[ info ] api.com/wallet/allocation/adminLock [运行时间：0.574997s][吞吐率：1.74req/s] [内存消耗：2,645.15kb] [文件加载：58]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.profit_24hour_history' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-08-28T11:32:15+08:00 ] 127.0.0.1 GET /wallet/allocation/adminLock
+[ info ] api.com/wallet/allocation/adminLock [运行时间：0.545684s][吞吐率：1.83req/s] [内存消耗：2,645.17kb] [文件加载：58]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.profit_24hour_history' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-08-28T11:41:36+08:00 ] 127.0.0.1 GET /wallet/allocation/adminLock
+[ info ] api.com/wallet/allocation/adminLock [运行时间：0.060562s][吞吐率：16.51req/s] [内存消耗：1,903.33kb] [文件加载：51]
+[ error ] [1]Call to undefined function app\wallet\controller\str()[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:942]
+---------------------------------------------------------------
+[ 2018-08-28T11:44:53+08:00 ] 127.0.0.1 GET /wallet/allocation/adminLock
+[ info ] api.com/wallet/allocation/adminLock [运行时间：0.124091s][吞吐率：8.06req/s] [内存消耗：2,642.64kb] [文件加载：58]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2018-08-27' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-08-28T13:46:25+08:00 ] 127.0.0.1 GET /wallet/allocation/adminLock
+[ info ] api.com/wallet/allocation/adminLock [运行时间：575.035725s][吞吐率：0.00req/s] [内存消耗：3,010.68kb] [文件加载：57]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:383]
+---------------------------------------------------------------
+[ 2018-08-28T13:55:24+08:00 ] 127.0.0.1 GET /wallet/allocation/adminLock
+[ info ] api.com/wallet/allocation/adminLock [运行时间：596.985886s][吞吐率：0.00req/s] [内存消耗：3,193.30kb] [文件加载：57]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:383]
+---------------------------------------------------------------
+[ 2018-08-28T13:56:49+08:00 ] 127.0.0.1 GET /wallet/allocation/adminLock
+[ info ] api.com/wallet/allocation/adminLock [运行时间：0.092244s][吞吐率：10.84req/s] [内存消耗：2,648.04kb] [文件加载：57]
+[ error ] [8]未定义数组索引: total_sdt[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:950]
+---------------------------------------------------------------
+[ 2018-08-28T13:58:00+08:00 ] 127.0.0.1 GET /wallet/allocation/adminLock
+[ info ] api.com/wallet/allocation/adminLock [运行时间：525.673648s][吞吐率：0.00req/s] [内存消耗：3,193.30kb] [文件加载：57]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:383]
+---------------------------------------------------------------
+[ 2018-08-28T15:51:35+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：25.396873s][吞吐率：0.04req/s] [内存消耗：11,740.54kb] [文件加载：140]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-08-28T15:53:51+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：104.897443s][吞吐率：0.01req/s] [内存消耗：11,300.00kb] [文件加载：143]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-08-28T16:16:35+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：102.912067s][吞吐率：0.01req/s] [内存消耗：11,304.45kb] [文件加载：143]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-08-28T16:33:54+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：104.736041s][吞吐率：0.01req/s] [内存消耗：11,305.36kb] [文件加载：143]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-08-28T16:34:23+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：24.387942s][吞吐率：0.04req/s] [内存消耗：11,743.60kb] [文件加载：140]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-08-28T16:39:49+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：106.465832s][吞吐率：0.01req/s] [内存消耗：11,307.41kb] [文件加载：143]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-08-28T16:43:41+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：102.586322s][吞吐率：0.01req/s] [内存消耗：11,303.27kb] [文件加载：143]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-08-28T16:51:35+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：104.802725s][吞吐率：0.01req/s] [内存消耗：11,130.44kb] [文件加载：143]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-08-28T16:57:42+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：24.319461s][吞吐率：0.04req/s] [内存消耗：11,740.61kb] [文件加载：140]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]

@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-07-04T16:43:02+08:00 ] 127.0.0.1 POST /wallet/user/login
+[ info ] api.com/wallet/user/login [运行时间：14.989535s][吞吐率：0.07req/s] [内存消耗：3,086.88kb] [文件加载：65]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]

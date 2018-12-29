@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+[ 2018-08-24T10:06:00+08:00 ] 127.0.0.1 GET /wallet/allocation/cal
+[ info ] api.com/wallet/allocation/cal [运行时间：2.648382s][吞吐率：0.38req/s] [内存消耗：2,626.51kb] [文件加载：57]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.profit_today_base' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-08-24T10:07:51+08:00 ] 127.0.0.1 GET /wallet/allocation/cal
+[ info ] api.com/wallet/allocation/cal [运行时间：0.546305s][吞吐率：1.83req/s] [内存消耗：2,626.09kb] [文件加载：57]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.profit_today_base' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]

@@ -1,0 +1,44 @@
+---------------------------------------------------------------
+[ 2018-07-31T10:37:30+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.161907s][吞吐率：6.18req/s] [内存消耗：2,492.23kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet.profit_24hour_history' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-31T10:44:02+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.558556s][吞吐率：1.79req/s] [内存消耗：2,515.59kb] [文件加载：55]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:349]
+---------------------------------------------------------------
+[ 2018-07-31T10:44:33+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.399684s][吞吐率：2.50req/s] [内存消耗：3,656.19kb] [文件加载：53]
+[ error ] [0]没有条件不会执行删除操作[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:2843]
+---------------------------------------------------------------
+[ 2018-07-31T10:47:34+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.353156s][吞吐率：2.83req/s] [内存消耗：2,786.16kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'ph_id'  AND  = 'neq'  AND  = 0' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:463]
+---------------------------------------------------------------
+[ 2018-07-31T10:59:09+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.937919s][吞吐率：1.07req/s] [内存消耗：2,510.54kb] [文件加载：55]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:468]
+---------------------------------------------------------------
+[ 2018-07-31T10:59:45+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.819850s][吞吐率：1.22req/s] [内存消耗：2,511.30kb] [文件加载：55]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:469]
+---------------------------------------------------------------
+[ 2018-07-31T11:00:45+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.764751s][吞吐率：1.31req/s] [内存消耗：2,510.56kb] [文件加载：55]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:469]
+---------------------------------------------------------------
+[ 2018-07-31T11:01:09+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.837293s][吞吐率：1.19req/s] [内存消耗：2,510.87kb] [文件加载：55]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:469]
+---------------------------------------------------------------
+[ 2018-07-31T11:01:17+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：1.031716s][吞吐率：0.97req/s] [内存消耗：2,510.97kb] [文件加载：55]
+[ error ] [8]未定义数组索引: yesterday_million_btc[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:468]
+---------------------------------------------------------------
+[ 2018-07-31T15:16:52+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.512756s][吞吐率：1.95req/s] [内存消耗：2,525.83kb] [文件加载：55]
+[ error ] [2]bcdiv(): Division by zero[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:319]
+---------------------------------------------------------------
+[ 2018-07-31T15:54:21+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：1.149571s][吞吐率：0.87req/s] [内存消耗：2,524.70kb] [文件加载：55]
+[ error ] [8]未定义变量: to_day[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:505]

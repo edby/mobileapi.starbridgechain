@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+[ 2018-09-05T13:44:22+08:00 ] 127.0.0.1 POST /wallet/extract/bindMobile
+[ info ] api.com/wallet/extract/bindMobile [运行时间：0.170623s][吞吐率：5.86req/s] [内存消耗：2,469.98kb] [文件加载：57]
+[ error ] [0]数据表字段不存在:[wallet_user_id][E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Builder.php:111]
+---------------------------------------------------------------
+[ 2018-09-05T13:56:47+08:00 ] 127.0.0.1 POST /wallet/extract/bindMobile
+[ info ] api.com/wallet/extract/bindMobile [运行时间：1.022833s][吞吐率：0.98req/s] [内存消耗：2,471.00kb] [文件加载：57]
+[ error ] [0]数据表字段不存在:[type][E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Builder.php:111]
+---------------------------------------------------------------
+[ 2018-09-05T17:11:55+08:00 ] 127.0.0.1 POST /wallet/extract/sendBindCode
+[ info ] api.com/wallet/extract/sendBindCode [运行时间：0.113739s][吞吐率：8.79req/s] [内存消耗：1,734.15kb] [文件加载：52]
+[ error ] [1]Call to undefined function app\wallet\controller\toUpperCase()[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\ExtractController.php:41]
+---------------------------------------------------------------
+[ 2018-09-05T17:15:16+08:00 ] 127.0.0.1 POST /wallet/extract/sendBindCode
+[ info ] api.com/wallet/extract/sendBindCode [运行时间：0.088306s][吞吐率：11.32req/s] [内存消耗：1,744.71kb] [文件加载：53]
+[ error ] [8]未定义数组索引: Msg[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\ExtractController.php:54]

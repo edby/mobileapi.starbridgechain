@@ -1,0 +1,15 @@
+---------------------------------------------------------------
+[ 2018-08-18T15:56:38+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [è¿è¡Œæ—¶é—´ï¼š21.122764s][ååç‡ï¼š0.05req/s] [å†…å­˜æ¶ˆè€—ï¼š2,538.89kb] [æ–‡ä»¶åŠ è½½ï¼š53]
+[ error ] [2002]SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-08-18T15:57:12+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [è¿è¡Œæ—¶é—´ï¼š21.066526s][ååç‡ï¼š0.05req/s] [å†…å­˜æ¶ˆè€—ï¼š2,538.68kb] [æ–‡ä»¶åŠ è½½ï¼š53]
+[ error ] [2002]SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-08-18T17:46:08+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [è¿è¡Œæ—¶é—´ï¼š21.065533s][ååç‡ï¼š0.05req/s] [å†…å­˜æ¶ˆè€—ï¼š2,538.27kb] [æ–‡ä»¶åŠ è½½ï¼š53]
+[ error ] [2002]SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]

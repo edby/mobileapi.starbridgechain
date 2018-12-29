@@ -1,0 +1,10 @@
+---------------------------------------------------------------
+[ 2018-10-12T09:40:11+08:00 ] 127.0.0.1 GET /wallet/allocation/sendExpireLock
+[ info ] api.com/wallet/allocation/sendExpireLock [运行时间：0.190540s][吞吐率：5.25req/s] [内存消耗：2,805.69kb] [文件加载：59]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fd_id' in 'where clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-10-12T10:42:01+08:00 ] 127.0.0.1 GET /wallet/allocation/sendExpireLock
+[ info ] api.com/wallet/allocation/sendExpireLock [运行时间：0.484784s][吞吐率：2.06req/s] [内存消耗：4,281.88kb] [文件加载：139]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]

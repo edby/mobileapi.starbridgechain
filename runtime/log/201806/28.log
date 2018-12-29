@@ -1,0 +1,36 @@
+---------------------------------------------------------------
+[ 2018-06-28T13:44:47+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：0.131321s][吞吐率：7.61req/s] [内存消耗：1,654.05kb] [文件加载：48]
+[ error ] [1]Class 'app\wallet\controller\Model' not found[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:281]
+---------------------------------------------------------------
+[ 2018-06-28T16:50:07+08:00 ] 127.0.0.1 POST /wallet/admin/getroutepruse
+[ info ] api.com/wallet/admin/getroutepruse [运行时间：0.084116s][吞吐率：11.89req/s] [内存消耗：1,303.59kb] [文件加载：38]
+[ error ] [4]语法错误: unexpected 'else' (T_ELSE)[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:302]
+---------------------------------------------------------------
+[ 2018-06-28T16:50:24+08:00 ] 127.0.0.1 POST /wallet/admin/getroutepruse
+[ info ] api.com/wallet/admin/getroutepruse [运行时间：0.040016s][吞吐率：24.99req/s] [内存消耗：1,303.62kb] [文件加载：38]
+[ error ] [4]语法错误: unexpected 'else' (T_ELSE)[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:302]
+---------------------------------------------------------------
+[ 2018-06-28T16:50:38+08:00 ] 127.0.0.1 POST /wallet/admin/getroutepruse
+[ info ] api.com/wallet/admin/getroutepruse [运行时间：0.037442s][吞吐率：26.71req/s] [内存消耗：1,303.60kb] [文件加载：38]
+[ error ] [4]语法错误: unexpected 'else' (T_ELSE)[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:302]
+---------------------------------------------------------------
+[ 2018-06-28T17:00:27+08:00 ] 127.0.0.1 POST /wallet/admin/getroutepruse
+[ info ] api.com/wallet/admin/getroutepruse [运行时间：0.040488s][吞吐率：24.70req/s] [内存消耗：1,303.70kb] [文件加载：38]
+[ error ] [4]语法错误: unexpected '}', expecting variable (T_VARIABLE) or '$'[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:302]
+---------------------------------------------------------------
+[ 2018-06-28T17:27:29+08:00 ] 127.0.0.1 POST /wallet/admin/getroutepruse
+[ info ] api.com/wallet/admin/getroutepruse [运行时间：0.225001s][吞吐率：4.44req/s] [内存消耗：1,842.17kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':00:00.000Z and  fd_createDate <=2018-06-24T09:27:03.000Z' at line 1[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-28T17:27:54+08:00 ] 127.0.0.1 POST /wallet/admin/getroutepruse
+[ info ] api.com/wallet/admin/getroutepruse [运行时间：0.206987s][吞吐率：4.83req/s] [内存消耗：1,841.98kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '00:00:00 and  fd_createDate <=2018-06-22 00:00:00' at line 1[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-28T17:28:35+08:00 ] 127.0.0.1 POST /wallet/admin/getroutepruse
+[ info ] api.com/wallet/admin/getroutepruse [运行时间：0.191569s][吞吐率：5.22req/s] [内存消耗：1,842.51kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '00:00:00 and  fd_createDate <=2018-06-22 00:00:00' at line 1[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-06-28T17:32:37+08:00 ] 127.0.0.1 POST /wallet/admin/getroutepruse
+[ info ] api.com/wallet/admin/getroutepruse [运行时间：0.187205s][吞吐率：5.34req/s] [内存消耗：1,841.89kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2018-06-22 00:00:00'' at line 1[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]

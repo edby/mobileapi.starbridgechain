@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2018-10-11T11:02:48+08:00 ] 127.0.0.1 GET /wallet/allocation/dividend
+[ info ] api.com/wallet/allocation/dividend [运行时间：0.603092s][吞吐率：1.66req/s] [内存消耗：2,024.64kb] [文件加载：50]
+[ error ] [0]方法参数错误:ip[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2018-10-11T16:58:03+08:00 ] 127.0.0.1 GET /wallet/allocation/latestdeal
+[ info ] api.com/wallet/allocation/latestdeal [运行时间：0.201416s][吞吐率：4.96req/s] [内存消耗：2,801.21kb] [文件加载：59]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wu.fd_name' in 'field list'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-10-11T16:59:47+08:00 ] 127.0.0.1 GET /wallet/allocation/latestdeal
+[ info ] api.com/wallet/allocation/latestdeal [运行时间：0.108670s][吞吐率：9.20req/s] [内存消耗：2,801.23kb] [文件加载：59]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wfs.fd_id' in 'field list'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]

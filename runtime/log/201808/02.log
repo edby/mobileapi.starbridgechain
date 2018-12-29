@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+[ 2018-08-02T15:26:49+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.329829s][吞吐率：3.03req/s] [内存消耗：2,486.70kb] [文件加载：54]
+[ error ] [8]未定义数组索引: total_sbc[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:263]
+---------------------------------------------------------------
+[ 2018-08-02T15:27:26+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.503103s][吞吐率：1.99req/s] [内存消耗：2,490.10kb] [文件加载：54]
+[ error ] [8]未定义数组索引: total_sbc[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:269]
+---------------------------------------------------------------
+[ 2018-08-02T20:16:25+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.119355s][吞吐率：8.38req/s] [内存消耗：1,736.90kb] [文件加载：48]
+[ error ] [8]未定义变量: re[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:259]
+---------------------------------------------------------------
+[ 2018-08-02T20:36:30+08:00 ] 127.0.0.1 GET /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.086231s][吞吐率：11.60req/s] [内存消耗：2,487.12kb] [文件加载：54]
+[ error ] [8]未定义变量: total_btc[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:270]

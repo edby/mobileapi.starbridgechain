@@ -1,0 +1,58 @@
+---------------------------------------------------------------
+[ 2018-07-24T09:26:08+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.170792s][吞吐率：5.86req/s] [内存消耗：2,427.77kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as true_virtual,
+              select sum(sbc) as total_sbc,sum(sbcd) as total_s' at line 2[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-24T09:26:23+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.083222s][吞吐率：12.02req/s] [内存消耗：2,427.77kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as true_virtual,
+              select sum(sbc) as total_sbc,sum(sbcd) as total_s' at line 2[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-24T09:26:45+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.101053s][吞吐率：9.90req/s] [内存消耗：2,427.98kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as true_virtual,
+              select sum(sbc) as total_sbc,sum(sbcd) as total_s' at line 2[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-24T09:26:59+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.078147s][吞吐率：12.80req/s] [内存消耗：2,427.98kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as true_virtual,
+              (select sum(sbc) as total_sbc,sum(sbcd) as total_' at line 2[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-24T09:27:16+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.081870s][吞吐率：12.21req/s] [内存消耗：2,428.00kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as true_virtual,
+              (select sum(sbc) as true_total_sbc,sum(sbcd) as t' at line 2[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-24T09:29:30+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.095100s][吞吐率：10.52req/s] [内存消耗：2,427.95kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as true_virtual,
+              (select sum(sbc) as true_total_sbc from wkj_user_' at line 2[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-24T09:30:32+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.512338s][吞吐率：1.95req/s] [内存消耗：2,428.53kb] [文件加载：54]
+[ error ] [8]未定义数组索引: true_virtual[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:295]
+---------------------------------------------------------------
+[ 2018-07-24T11:34:52+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.606042s][吞吐率：1.65req/s] [内存消耗：2,442.68kb] [文件加载：54]
+[ error ] [8]未定义数组索引: total_sdt[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:298]
+---------------------------------------------------------------
+[ 2018-07-24T13:52:07+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.583860s][吞吐率：1.71req/s] [内存消耗：2,444.13kb] [文件加载：54]
+[ error ] [8]未定义数组索引: accumulated[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:303]
+---------------------------------------------------------------
+[ 2018-07-24T13:58:23+08:00 ] 127.0.0.1 POST /wallet/allocation/calculation
+[ info ] api.com/wallet/allocation/calculation [运行时间：0.800649s][吞吐率：1.25req/s] [内存消耗：2,455.73kb] [文件加载：54]
+[ error ] [1]Call to undefined function app\wallet\controller\ate()[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:318]
+---------------------------------------------------------------
+[ 2018-07-24T16:49:30+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.468853s][吞吐率：2.13req/s] [内存消耗：2,453.27kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wkj.profit_sysSetting' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-24T18:03:07+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.567081s][吞吐率：1.76req/s] [内存消耗：2,475.66kb] [文件加载：56]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_format(ph_createTime,'%Y-%m-%d')' in 'where clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-24T18:34:09+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.791421s][吞吐率：1.26req/s] [内存消耗：2,478.39kb] [文件加载：55]
+[ error ] [2]bcdiv() expects parameter 2 to be string, array given[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:290]

@@ -1,0 +1,20 @@
+---------------------------------------------------------------
+[ 2018-09-29T10:36:18+08:00 ] 127.0.0.1 POST /wallet/Upload/upload
+[ info ] api.com/wallet/Upload/upload [运行时间：0.251412s][吞吐率：3.98req/s] [内存消耗：1,831.08kb] [文件加载：53]
+[ error ] [8]Undefined property: think\File::$name[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\UploadController.php:29]
+---------------------------------------------------------------
+[ 2018-09-29T10:38:41+08:00 ] 127.0.0.1 POST /wallet/Upload/upload
+[ info ] api.com/wallet/Upload/upload [运行时间：0.160225s][吞吐率：6.24req/s] [内存消耗：1,839.90kb] [文件加载：53]
+[ error ] [1]Cannot access protected property think\File::$info[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\UploadController.php:30]
+---------------------------------------------------------------
+[ 2018-09-29T10:39:37+08:00 ] 127.0.0.1 POST /wallet/Upload/upload
+[ info ] api.com/wallet/Upload/upload [运行时间：0.179059s][吞吐率：5.58req/s] [内存消耗：1,831.33kb] [文件加载：53]
+[ error ] [2]hash_file(): Unknown hashing algorithm: info[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2018-09-29T10:48:20+08:00 ] 127.0.0.1 POST /wallet/Upload/upload
+[ info ] api.com/wallet/Upload/upload [运行时间：0.057982s][吞吐率：17.25req/s] [内存消耗：1,765.79kb] [文件加载：52]
+[ error ] [8]未定义数组索引: file[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\UploadController.php:21]
+---------------------------------------------------------------
+[ 2018-09-29T11:01:51+08:00 ] 127.0.0.1 POST /wallet/Upload/upload
+[ info ] api.com/wallet/Upload/upload [运行时间：0.056988s][吞吐率：17.55req/s] [内存消耗：1,768.92kb] [文件加载：52]
+[ error ] [8]未定义数组索引: file[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\UploadController.php:23]

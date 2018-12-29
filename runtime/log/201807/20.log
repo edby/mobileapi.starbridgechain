@@ -1,0 +1,32 @@
+---------------------------------------------------------------
+[ 2018-07-20T10:37:57+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.473326s][吞吐率：2.11req/s] [内存消耗：34,539.61kb] [文件加载：54]
+[ error ] [1]Call to a member function count() on a non-object[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:236]
+---------------------------------------------------------------
+[ 2018-07-20T11:30:03+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.542195s][吞吐率：1.84req/s] [内存消耗：2,404.12kb] [文件加载：54]
+[ error ] [8]未定义数组索引: sbc[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:245]
+---------------------------------------------------------------
+[ 2018-07-20T11:30:31+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.509037s][吞吐率：1.96req/s] [内存消耗：2,404.15kb] [文件加载：54]
+[ error ] [8]未定义数组索引: total_sbc[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:244]
+---------------------------------------------------------------
+[ 2018-07-20T11:38:35+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.529230s][吞吐率：1.89req/s] [内存消耗：2,404.69kb] [文件加载：54]
+[ error ] [8]未定义数组索引: total[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:246]
+---------------------------------------------------------------
+[ 2018-07-20T15:00:12+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.570928s][吞吐率：1.75req/s] [内存消耗：2,432.34kb] [文件加载：54]
+[ error ] [8]Array to string conversion[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:253]
+---------------------------------------------------------------
+[ 2018-07-20T15:00:28+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.582165s][吞吐率：1.72req/s] [内存消耗：2,432.48kb] [文件加载：54]
+[ error ] [8]未定义数组索引: data[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:252]
+---------------------------------------------------------------
+[ 2018-07-20T15:00:52+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：0.576993s][吞吐率：1.73req/s] [内存消耗：2,432.02kb] [文件加载：54]
+[ error ] [8]未定义数组索引: data[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:259]
+---------------------------------------------------------------
+[ 2018-07-20T15:13:01+08:00 ] 127.0.0.1 POST /wallet/allocation/btcAnalyze
+[ info ] api.com/wallet/allocation/btcAnalyze [运行时间：30.024108s][吞吐率：0.03req/s] [内存消耗：6,203.00kb] [文件加载：54]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:451]

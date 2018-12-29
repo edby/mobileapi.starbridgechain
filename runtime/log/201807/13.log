@@ -1,0 +1,56 @@
+---------------------------------------------------------------
+[ 2018-07-13T11:46:19+08:00 ] 127.0.0.1 POST /wallet/user/login
+[ info ] api.com/wallet/user/login [运行时间：0.858030s][吞吐率：1.17req/s] [内存消耗：3,093.70kb] [文件加载：65]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-07-13T11:46:32+08:00 ] 127.0.0.1 POST /wallet/user/login
+[ info ] api.com/wallet/user/login [运行时间：0.583632s][吞吐率：1.71req/s] [内存消耗：3,093.70kb] [文件加载：65]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-07-13T11:46:37+08:00 ] 127.0.0.1 POST /wallet/user/login
+[ info ] api.com/wallet/user/login [运行时间：0.609063s][吞吐率：1.64req/s] [内存消耗：3,093.70kb] [文件加载：65]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-07-13T11:46:40+08:00 ] 127.0.0.1 POST /wallet/user/login
+[ info ] api.com/wallet/user/login [运行时间：0.652290s][吞吐率：1.53req/s] [内存消耗：3,093.70kb] [文件加载：65]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-07-13T11:46:45+08:00 ] 127.0.0.1 POST /wallet/user/login
+[ info ] api.com/wallet/user/login [运行时间：0.670721s][吞吐率：1.49req/s] [内存消耗：3,093.70kb] [文件加载：65]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-07-13T16:17:51+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.372463s][吞吐率：2.68req/s] [内存消耗：2,441.39kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet_group_user.group_id' in 'where clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-13T16:18:48+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] api.com/wallet/admin/getData [运行时间：0.263816s][吞吐率：3.79req/s] [内存消耗：2,441.34kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet_group_purse.user_id' in 'on clause'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-13T16:23:32+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：0.200758s][吞吐率：4.98req/s] [内存消耗：1,876.24kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-13T16:28:50+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：0.196248s][吞吐率：5.10req/s] [内存消耗：1,876.27kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-13T16:29:20+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：0.200831s][吞吐率：4.98req/s] [内存消耗：1,876.60kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-13T16:29:32+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：0.174118s][吞吐率：5.74req/s] [内存消耗：1,876.59kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-13T16:31:09+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：0.207339s][吞吐率：4.82req/s] [内存消耗：1,876.13kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-13T16:32:27+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：0.194230s][吞吐率：5.15req/s] [内存消耗：1,876.13kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-13T16:32:35+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：0.369672s][吞吐率：2.71req/s] [内存消耗：2,440.45kb] [文件加载：55]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'group_user.group_id' in 'field list'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]

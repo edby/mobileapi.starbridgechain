@@ -1,0 +1,20 @@
+---------------------------------------------------------------
+[ 2018-09-13T09:37:53+08:00 ] 127.0.0.1 POST /wallet/newcheckin/getTime
+[ info ] api.com/wallet/newcheckin/getTime [运行时间：0.138600s][吞吐率：7.22req/s] [内存消耗：2,519.88kb] [文件加载：58]
+[ error ] [2]strtotime() expects parameter 1 to be string, array given[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\NewcheckinController.php:202]
+---------------------------------------------------------------
+[ 2018-09-13T10:25:08+08:00 ] 127.0.0.1 POST /wallet/newcheckin/bindSn
+[ info ] api.com/wallet/newcheckin/bindSn [运行时间：0.094655s][吞吐率：10.56req/s] [内存消耗：1,781.84kb] [文件加载：53]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-09-13T10:25:27+08:00 ] 127.0.0.1 POST /wallet/newcheckin/bindSn
+[ info ] api.com/wallet/newcheckin/bindSn [运行时间：0.041537s][吞吐率：24.07req/s] [内存消耗：1,781.89kb] [文件加载：53]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-09-13T10:25:29+08:00 ] 127.0.0.1 POST /wallet/newcheckin/bindSn
+[ info ] api.com/wallet/newcheckin/bindSn [运行时间：0.045182s][吞吐率：22.13req/s] [内存消耗：1,781.89kb] [文件加载：53]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-09-13T10:25:31+08:00 ] 127.0.0.1 POST /wallet/newcheckin/bindSn
+[ info ] api.com/wallet/newcheckin/bindSn [运行时间：0.034742s][吞吐率：28.78req/s] [内存消耗：1,781.89kb] [文件加载：53]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]

@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-09-25T16:06:25+08:00 ] 127.0.0.1 POST /wallet/allocation/updatebtc
+[ info ] api.com/wallet/allocation/updatebtc [运行时间：0.131155s][吞吐率：7.62req/s] [内存消耗：2,784.91kb] [文件加载：58]
+[ error ] [8]未定义数组索引: fd_id[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:1387]

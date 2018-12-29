@@ -1,0 +1,33 @@
+---------------------------------------------------------------
+[ 2018-09-06T11:12:10+08:00 ] 127.0.0.1 POST /wallet/purse/getPurse
+[ info ] api.com/wallet/purse/getPurse [运行时间：0.153466s][吞吐率：6.52req/s] [内存消耗：2,838.89kb] [文件加载：60]
+[ error ] [1]Call to a member function join() on a non-object[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:42]
+---------------------------------------------------------------
+[ 2018-09-06T11:12:36+08:00 ] 127.0.0.1 POST /wallet/purse/getPurse
+[ info ] api.com/wallet/purse/getPurse [运行时间：0.103366s][吞吐率：9.67req/s] [内存消耗：2,838.90kb] [文件加载：60]
+[ error ] [1]Call to a member function join() on a non-object[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:42]
+---------------------------------------------------------------
+[ 2018-09-06T11:12:44+08:00 ] 127.0.0.1 POST /wallet/purse/getPurse
+[ info ] api.com/wallet/purse/getPurse [运行时间：0.122486s][吞吐率：8.16req/s] [内存消耗：2,838.90kb] [文件加载：60]
+[ error ] [1]Call to a member function join() on a non-object[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:42]
+---------------------------------------------------------------
+[ 2018-09-06T15:28:10+08:00 ] 127.0.0.1 POST /wallet/extract/balanceMobile
+[ info ] api.com/wallet/extract/balanceMobile [运行时间：0.181089s][吞吐率：5.52req/s] [内存消耗：2,489.59kb] [文件加载：59]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wallet_906.profit_purse_mobile' doesn't exist[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-09-06T15:35:29+08:00 ] 127.0.0.1 POST /wallet/extract/balanceMobile
+[ info ] api.com/wallet/extract/balanceMobile [运行时间：0.104311s][吞吐率：9.59req/s] [内存消耗：2,489.09kb] [文件加载：58]
+[ error ] [2]json_decode() expects parameter 1 to be string, array given[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\ExtractController.php:148]
+---------------------------------------------------------------
+[ 2018-09-06T15:40:28+08:00 ] 127.0.0.1 POST /wallet/extract/balanceMobile
+[ info ] api.com/wallet/extract/balanceMobile [运行时间：0.180082s][吞吐率：5.55req/s] [内存消耗：2,506.32kb] [文件加载：59]
+[ error ] [8]未定义数组索引: data[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\ExtractController.php:158]
+---------------------------------------------------------------
+[ 2018-09-06T16:29:24+08:00 ] 127.0.0.1 GET /wallet/allocation/preBtcAnalyze
+[ info ] api.com/wallet/allocation/preBtcAnalyze [运行时间：169.235304s][吞吐率：0.01req/s] [内存消耗：16,177.58kb] [文件加载：140]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+---------------------------------------------------------------
+[ 2018-09-06T16:37:49+08:00 ] 127.0.0.1 GET /wallet/allocation/preBtcAnalyze
+[ info ] api.com/wallet/allocation/preBtcAnalyze [运行时间：332.189591s][吞吐率：0.00req/s] [内存消耗：15,897.15kb] [文件加载：140]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]
+[ error ] [2]stream_socket_client(): unable to connect to ssl://smtpdm.aliyun.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?)[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php:266]

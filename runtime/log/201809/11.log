@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-09-11T17:03:47+08:00 ] 127.0.0.1 POST /wallet/newcheckin/bindSn
+[ info ] api.com/wallet/newcheckin/bindSn [运行时间：0.153995s][吞吐率：6.49req/s] [内存消耗：1,400.70kb] [文件加载：42]
+[ error ] [4]语法错误: unexpected ')'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\NewcheckinController.php:38]

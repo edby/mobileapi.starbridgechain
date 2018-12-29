@@ -1,0 +1,28 @@
+---------------------------------------------------------------
+[ 2018-08-14T09:48:29+08:00 ] 127.0.0.1 POST /wallet/allocation/unlockSdt
+[ info ] api.com/wallet/allocation/unlockSdt [运行时间：0.115331s][吞吐率：8.67req/s] [内存消耗：2,515.31kb] [文件加载：54]
+[ error ] [8]未定义数组索引: fd_id[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:693]
+---------------------------------------------------------------
+[ 2018-08-14T09:50:38+08:00 ] 127.0.0.1 POST /wallet/allocation/unlockSdt
+[ info ] api.com/wallet/allocation/unlockSdt [运行时间：0.117484s][吞吐率：8.51req/s] [内存消耗：2,531.60kb] [文件加载：54]
+[ error ] [8]未定义数组索引: lock_nums[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:694]
+---------------------------------------------------------------
+[ 2018-08-14T10:04:11+08:00 ] 127.0.0.1 POST /wallet/allocation/unlockSdt
+[ info ] api.com/wallet/allocation/unlockSdt [运行时间：0.137871s][吞吐率：7.25req/s] [内存消耗：2,631.63kb] [文件加载：58]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column '1000.000000000000000' in 'field list'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:463]
+---------------------------------------------------------------
+[ 2018-08-14T10:32:31+08:00 ] 127.0.0.1 POST /wallet/allocation/lockSdt
+[ info ] api.com/wallet/allocation/lockSdt [运行时间：0.132815s][吞吐率：7.53req/s] [内存消耗：2,643.01kb] [文件加载：59]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:463]
+---------------------------------------------------------------
+[ 2018-08-14T15:16:32+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [运行时间：0.202963s][吞吐率：4.93req/s] [内存消耗：1,453.77kb] [文件加载：39]
+[ error ] [4]语法错误: unexpected ','[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\TradeController.php:592]
+---------------------------------------------------------------
+[ 2018-08-14T15:27:45+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [运行时间：0.141076s][吞吐率：7.09req/s] [内存消耗：2,580.05kb] [文件加载：55]
+[ error ] [8]A non well formed numeric value encountered[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\TradeController.php:593]
+---------------------------------------------------------------
+[ 2018-08-14T15:29:24+08:00 ] 127.0.0.1 POST /wallet/Trade/putBTC2Wallet
+[ info ] api.com/wallet/Trade/putBTC2Wallet [运行时间：0.044963s][吞吐率：22.24req/s] [内存消耗：1,455.73kb] [文件加载：39]
+[ error ] [4]语法错误: unexpected ')'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\TradeController.php:600]

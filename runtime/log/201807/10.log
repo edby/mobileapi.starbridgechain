@@ -1,0 +1,37 @@
+---------------------------------------------------------------
+[ 2018-07-10T14:43:22+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：15.152656s][吞吐率：0.07req/s] [内存消耗：1,874.34kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-10T14:44:41+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：14.612784s][吞吐率：0.07req/s] [内存消耗：1,873.48kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-10T14:53:39+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：8.956553s][吞吐率：0.11req/s] [内存消耗：1,874.18kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-10T14:58:18+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：14.494458s][吞吐率：0.07req/s] [内存消耗：1,874.35kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-10T14:58:18+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：9.387209s][吞吐率：0.11req/s] [内存消耗：1,874.35kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-10T15:48:25+08:00 ] 127.0.0.1 POST /wallet/admin/getGroup
+[ info ] api.com/wallet/admin/getGroup [运行时间：21.162731s][吞吐率：0.05req/s] [内存消耗：2,413.84kb] [文件加载：52]
+[ error ] [2002]SQLSTATE[HY000] [2002] �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�
+[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-10T15:49:14+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：67.153934s][吞吐率：0.01req/s] [内存消耗：2,450.98kb] [文件加载：54]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:383]
+---------------------------------------------------------------
+[ 2018-07-10T16:08:19+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：31.892951s][吞吐率：0.03req/s] [内存消耗：2,441.85kb] [文件加载：54]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-07-10T16:08:57+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：67.359948s][吞吐率：0.01req/s] [内存消耗：2,450.98kb] [文件加载：54]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:383]

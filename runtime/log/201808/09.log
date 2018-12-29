@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2018-08-09T09:49:43+08:00 ] 127.0.0.1 POST /wallet/allocation/cal
+[ info ] api.com/wallet/allocation/cal [运行时间：0.719537s][吞吐率：1.39req/s] [内存消耗：2,516.48kb] [文件加载：55]
+[ error ] [8]未定义数组下标: 0[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:474]
+---------------------------------------------------------------
+[ 2018-08-09T10:14:35+08:00 ] 127.0.0.1 POST /wallet/allocation/cal
+[ info ] api.com/wallet/allocation/cal [运行时间：0.477601s][吞吐率：2.09req/s] [内存消耗：2,519.20kb] [文件加载：55]
+[ error ] [8]未定义数组索引: total_sdt[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:512]
+---------------------------------------------------------------
+[ 2018-08-09T10:14:48+08:00 ] 127.0.0.1 POST /wallet/allocation/cal
+[ info ] api.com/wallet/allocation/cal [运行时间：0.409420s][吞吐率：2.44req/s] [内存消耗：2,519.19kb] [文件加载：55]
+[ error ] [8]未定义数组索引: all_total_sdt[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:514]

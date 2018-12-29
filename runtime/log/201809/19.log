@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+[ 2018-09-19T17:25:16+08:00 ] 127.0.0.1 POST /wallet/extract/extractBalance
+[ info ] api.com/wallet/extract/extractBalance [运行时间：0.109173s][吞吐率：9.16req/s] [内存消耗：1,828.31kb] [文件加载：53]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-09-19T17:25:47+08:00 ] 127.0.0.1 POST /wallet/extract/extractBalance
+[ info ] api.com/wallet/extract/extractBalance [运行时间：0.046450s][吞吐率：21.53req/s] [内存消耗：1,828.27kb] [文件加载：53]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-09-19T17:25:50+08:00 ] 127.0.0.1 POST /wallet/extract/extractBalance
+[ info ] api.com/wallet/extract/extractBalance [运行时间：0.065299s][吞吐率：15.31req/s] [内存消耗：1,828.27kb] [文件加载：53]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-09-19T17:26:00+08:00 ] 127.0.0.1 POST /wallet/extract/extractBalance
+[ info ] api.com/wallet/extract/extractBalance [运行时间：0.046396s][吞吐率：21.55req/s] [内存消耗：1,828.14kb] [文件加载：53]
+[ error ] [1]Class 'Redis' not found[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]

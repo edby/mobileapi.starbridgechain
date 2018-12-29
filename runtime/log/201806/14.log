@@ -1,0 +1,237 @@
+---------------------------------------------------------------
+[ 2018-06-14T10:32:43+08:00 ] 127.0.0.1 POST /wallet/purse/getStatus
+[ info ] tp.com/wallet/purse/getStatus [è¿è¡Œæ—¶é—´ï¼š0.382462s][ååç‡ï¼š2.61req/s] [å†…å­˜æ¶ˆè€—ï¼š1,593.56kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\PurseController.php:202]
+---------------------------------------------------------------
+[ 2018-06-14T10:34:27+08:00 ] 127.0.0.1 POST /wallet/order/getSdtData
+[ info ] api.com/wallet/order/getSdtData [è¿è¡Œæ—¶é—´ï¼š0.444347s][ååç‡ï¼š2.25req/s] [å†…å­˜æ¶ˆè€—ï¼š2,460.59kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [1]Call to a member function count() on a non-object[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\OrderController.php:700]
+---------------------------------------------------------------
+[ 2018-06-14T10:50:59+08:00 ] 127.0.0.1 GET /index.php
+[ info ] api.com/index.php [è¿è¡Œæ—¶é—´ï¼š0.110689s][ååç‡ï¼š9.03req/s] [å†…å­˜æ¶ˆè€—ï¼š1,568.08kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [1]Maximum execution time of 60 seconds exceeded[xÚíTën£F~™HŞühÄ%i‚RWÅ8Æƒ‰Áæ2?vƒ=Æ—Ô‡ïHb§Rß H–a.g¾ó]æ&™N’üP|ÿñ}r…Õş÷ûûœñşÛ{7ùãï?\'w7æør{7™N_¬ùt:y¾éû~:ùíÿçòLÿÚ7!ûöÎb¼XœltV‡®ÒcS Ì.‰<«Ÿ°ot‘lô(iSCåk[2’aJ‡ıYCr»Œ2R˜Zú¨eXŒ2K=¥FKûD^bk4%’[ã±Çª äkMMC_¥oš›}ĞiWG™+]K%¯¹çNêÙ<™ùÊ¯VšcÃy–-‡¹ªâuôEõ3CsÖx‹_¾l5ô‹ÅåéŒE9ô”yÑ¬å
+Î)¯y•]éâ¥p<CŸÙS…4›÷×ÇKT™[µ|íT8gVâ„RäØEà=¤‘¾£œOaıçØ›3Ëˆ¤œBIi±w_:k×°7Êm)ğÚâ½·ò¿ÎCóğ[¡H{¹ô¦±G Ñ ÀQì5ÒØƒ¾ö°)(Z
+cËFë;8÷xŒ2»ÂçÓbğn‰Ôˆk”€N”É¡Î`qæ6ĞÛçY+çı¬—œGĞTd‘ì
+«K¿€x¯µYŸŠsƒŞæà²³¸G 6ğRãì‰ó}óµâK®àK"‹õÅë!p®0mAÿÔbÜ«D†¾óÜÔ—1ÖâxåÌ†ÚÀC<Ã~Ø£À8Ò1xüıµ.Õ•^xıìã©%ì-R¼49Î#htÜ;4‰åXæY²1$ÿXWä(s·¾3Î/|gX CnŠ”ü«Ö»¿ÁH0ç/Å×Ÿhû:WùØ=ä¾wı Yb×Üã8[TÈšİ å‹¯ã”eWàÔÑà›ÔĞ7å~Ô*ùº>5€O®õ)ÔTîÑé‹¸h‡Üm@/ĞˆÈnkß«\‡N›bí>YŸLÉŸ­³G•±sÃ÷‚—éêÂ+E[¢ÌíH‚F<¼¾è›ow±7âİ®4L¹ÇÍ®<€Ê`ğXÅûå§¡÷Eü~Ñİ{¢Ÿ9@§óş-áx>ğŞjà~/¼{±|Û
+ÂØï8Ïı÷CØá~Ã×[1hÒ¬R¥ÆØl÷sİ¡rªğÜŞ¼5f8şÜóq/ù 	à:àJ~n¥yÀ»S4Ü/ğ{«ŞwÒ:õ5/»‹A»•nA?ÉZ()ö¬¡ßl˜¢P™Î~\„x]³k›NnoŸÿæQæ(13) : eval()'d code(1) : eval()'d code:7]
+---------------------------------------------------------------
+[ 2018-06-14T11:23:56+08:00 ] 127.0.0.1 POST /wallet/admin/getSdtData
+[ info ] api.com/wallet/admin/getSdtData [è¿è¡Œæ—¶é—´ï¼š34.055909s][ååç‡ï¼š0.03req/s] [å†…å­˜æ¶ˆè€—ï¼š2,370.38kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\Error.php:66]
+---------------------------------------------------------------
+[ 2018-06-14T11:24:29+08:00 ] 127.0.0.1 POST /wallet/admin/getSdtData
+[ info ] api.com/wallet/admin/getSdtData [è¿è¡Œæ—¶é—´ï¼š46.180385s][ååç‡ï¼š0.02req/s] [å†…å­˜æ¶ˆè€—ï¼š2,390.23kb] [æ–‡ä»¶åŠ è½½ï¼š55]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:370]
+---------------------------------------------------------------
+[ 2018-06-14T11:26:19+08:00 ] 127.0.0.1 POST /wallet/admin/getSdtData
+[ info ] api.com/wallet/admin/getSdtData [è¿è¡Œæ—¶é—´ï¼š49.700320s][ååç‡ï¼š0.02req/s] [å†…å­˜æ¶ˆè€—ï¼š2,363.89kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\Error.php:66]
+---------------------------------------------------------------
+[ 2018-06-14T11:26:46+08:00 ] 127.0.0.1 POST /wallet/admin/getSdtData
+[ info ] api.com/wallet/admin/getSdtData [è¿è¡Œæ—¶é—´ï¼š39.386465s][ååç‡ï¼š0.03req/s] [å†…å­˜æ¶ˆè€—ï¼š2,365.91kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\Error.php:66]
+---------------------------------------------------------------
+[ 2018-06-14T11:26:52+08:00 ] 127.0.0.1 POST /wallet/order/getListAll
+[ info ] tp.com/wallet/order/getListAll [è¿è¡Œæ—¶é—´ï¼š35.782970s][ååç‡ï¼š0.03req/s] [å†…å­˜æ¶ˆè€—ï¼š2,736.13kb] [æ–‡ä»¶åŠ è½½ï¼š57]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:383]
+---------------------------------------------------------------
+[ 2018-06-14T11:26:53+08:00 ] 127.0.0.1 POST /wallet/admin/getSdtData
+[ info ] tp.com/wallet/admin/getSdtData [è¿è¡Œæ—¶é—´ï¼š21.095100s][ååç‡ï¼š0.05req/s] [å†…å­˜æ¶ˆè€—ï¼š2,331.68kb] [æ–‡ä»¶åŠ è½½ï¼š52]
+[ error ] [2002]SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-06-14T11:26:54+08:00 ] 127.0.0.1 POST /wallet/admin/getSdtData
+[ info ] tp.com/wallet/admin/getSdtData [è¿è¡Œæ—¶é—´ï¼š34.724033s][ååç‡ï¼š0.03req/s] [å†…å­˜æ¶ˆè€—ï¼š2,383.84kb] [æ–‡ä»¶åŠ è½½ï¼š55]
+[ error ] [1]Maximum execution time of 30 seconds exceeded[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\Error.php:66]
+---------------------------------------------------------------
+[ 2018-06-14T11:47:52+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [è¿è¡Œæ—¶é—´ï¼š0.065710s][ååç‡ï¼š15.22req/s] [å†…å­˜æ¶ˆè€—ï¼š1,608.33kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:53]
+---------------------------------------------------------------
+[ 2018-06-14T11:48:56+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [è¿è¡Œæ—¶é—´ï¼š0.050059s][ååç‡ï¼š19.98req/s] [å†…å­˜æ¶ˆè€—ï¼š1,608.33kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:53]
+---------------------------------------------------------------
+[ 2018-06-14T11:49:14+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [è¿è¡Œæ—¶é—´ï¼š0.073691s][ååç‡ï¼š13.57req/s] [å†…å­˜æ¶ˆè€—ï¼š1,608.33kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:53]
+---------------------------------------------------------------
+[ 2018-06-14T11:49:18+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [è¿è¡Œæ—¶é—´ï¼š0.080655s][ååç‡ï¼š12.40req/s] [å†…å­˜æ¶ˆè€—ï¼š1,608.33kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:53]
+---------------------------------------------------------------
+[ 2018-06-14T11:50:04+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [è¿è¡Œæ—¶é—´ï¼š0.110349s][ååç‡ï¼š9.06req/s] [å†…å­˜æ¶ˆè€—ï¼š1,608.38kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:53]
+---------------------------------------------------------------
+[ 2018-06-14T11:51:21+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [è¿è¡Œæ—¶é—´ï¼š0.093871s][ååç‡ï¼š10.65req/s] [å†…å­˜æ¶ˆè€—ï¼š1,608.33kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:53]
+---------------------------------------------------------------
+[ 2018-06-14T11:51:26+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [è¿è¡Œæ—¶é—´ï¼š0.079493s][ååç‡ï¼š12.58req/s] [å†…å­˜æ¶ˆè€—ï¼š1,608.33kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:53]
+---------------------------------------------------------------
+[ 2018-06-14T13:55:59+08:00 ] 127.0.0.1 POST /wallet/user/login
+[ info ] api.com/wallet/user/login [è¿è¡Œæ—¶é—´ï¼š0.692990s][ååç‡ï¼š1.44req/s] [å†…å­˜æ¶ˆè€—ï¼š3,061.08kb] [æ–‡ä»¶åŠ è½½ï¼š65]
+[ error ] [1]Class 'Redis' not found[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-06-14T13:56:58+08:00 ] 127.0.0.1 GET /index.php
+[ info ] api.com/index.php [è¿è¡Œæ—¶é—´ï¼š0.073372s][ååç‡ï¼š13.63req/s] [å†…å­˜æ¶ˆè€—ï¼š1,572.88kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [1]Maximum execution time of 60 seconds exceeded[xÚíTën£F~™HŞühÄ%i‚RWÅ8Æƒ‰Áæ2?vƒ=Æ—Ô‡ïHb§Rß H–a.g¾ó]æ&™N’üP|ÿñ}r…Õş÷ûûœñşÛ{7ùãï?\'w7æør{7™N_¬ùt:y¾éû~:ùíÿçòLÿÚ7!ûöÎb¼XœltV‡®ÒcS Ì.‰<«Ÿ°ot‘lô(iSCåk[2’aJ‡ıYCr»Œ2R˜Zú¨eXŒ2K=¥FKûD^bk4%’[ã±Çª äkMMC_¥oš›}ĞiWG™+]K%¯¹çNêÙ<™ùÊ¯VšcÃy–-‡¹ªâuôEõ3CsÖx‹_¾l5ô‹ÅåéŒE9ô”yÑ¬å
+Î)¯y•]éâ¥p<CŸÙS…4›÷×ÇKT™[µ|íT8gVâ„RäØEà=¤‘¾£œOaıçØ›3Ëˆ¤œBIi±w_:k×°7Êm)ğÚâ½·ò¿ÎCóğ[¡H{¹ô¦±G Ñ ÀQì5ÒØƒ¾ö°)(Z
+cËFë;8÷xŒ2»ÂçÓbğn‰Ôˆk”€N”É¡Î`qæ6ĞÛçY+çı¬—œGĞTd‘ì
+«K¿€x¯µYŸŠsƒŞæà²³¸G 6ğRãì‰ó}óµâK®àK"‹õÅë!p®0mAÿÔbÜ«D†¾óÜÔ—1ÖâxåÌ†ÚÀC<Ã~Ø£À8Ò1xüıµ.Õ•^xıìã©%ì-R¼49Î#htÜ;4‰åXæY²1$ÿXWä(s·¾3Î/|gX CnŠ”ü«Ö»¿ÁH0ç/Å×Ÿhû:WùØ=ä¾wı Yb×Üã8[TÈšİ å‹¯ã”eWàÔÑà›ÔĞ7å~Ô*ùº>5€O®õ)ÔTîÑé‹¸h‡Üm@/ĞˆÈnkß«\‡N›bí>YŸLÉŸ­³G•±sÃ÷‚—éêÂ+E[¢ÌíH‚F<¼¾è›ow±7âİ®4L¹ÇÍ®<€Ê`ğXÅûå§¡÷Eü~Ñİ{¢Ÿ9@§óş-áx>ğŞjà~/¼{±|Û
+ÂØï8Ïı÷CØá~Ã×[1hÒ¬R¥ÆØl÷sİ¡rªğÜŞ¼5f8şÜóq/ù 	à:àJ~n¥yÀ»S4Ü/ğ{«ŞwÒ:õ5/»‹A»•nA?ÉZ()ö¬¡ßl˜¢P™Î~\„x]³k›NnoŸÿæQæ(13) : eval()'d code(1) : eval()'d code:7]
+---------------------------------------------------------------
+[ 2018-06-14T14:03:33+08:00 ] 127.0.0.1 POST /wallet/admin/getStatus
+[ info ] tp.com/wallet/admin/getStatus [è¿è¡Œæ—¶é—´ï¼š0.060412s][ååç‡ï¼š16.55req/s] [å†…å­˜æ¶ˆè€—ï¼š1,608.38kb] [æ–‡ä»¶åŠ è½½ï¼š48]
+[ error ] [2]file_get_contents(switch.json): failed to open stream: No such file or directory[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:53]
+---------------------------------------------------------------
+[ 2018-06-14T14:19:18+08:00 ] 127.0.0.1 POST /wallet/order/getSdtTransferLogList
+[ info ] api.com/wallet/order/getSdtTransferLogList [è¿è¡Œæ—¶é—´ï¼š0.051020s][ååç‡ï¼š19.60req/s] [å†…å­˜æ¶ˆè€—ï¼š1,655.14kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [1]Class 'Redis' not found[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\extend\redis\Redis.php:35]
+---------------------------------------------------------------
+[ 2018-06-14T15:03:12+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.111634s][ååç‡ï¼š8.96req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.21kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:271]
+---------------------------------------------------------------
+[ 2018-06-14T15:04:18+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.083329s][ååç‡ï¼š12.00req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.21kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:271]
+---------------------------------------------------------------
+[ 2018-06-14T15:04:43+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.195701s][ååç‡ï¼š5.11req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.21kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:271]
+---------------------------------------------------------------
+[ 2018-06-14T15:04:45+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.100440s][ååç‡ï¼š9.96req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.21kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:271]
+---------------------------------------------------------------
+[ 2018-06-14T15:05:03+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.130892s][ååç‡ï¼š7.64req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.21kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:271]
+---------------------------------------------------------------
+[ 2018-06-14T15:05:14+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.087620s][ååç‡ï¼š11.41req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.21kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:271]
+---------------------------------------------------------------
+[ 2018-06-14T15:05:19+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.080166s][ååç‡ï¼š12.47req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.21kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:271]
+---------------------------------------------------------------
+[ 2018-06-14T15:05:24+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.091336s][ååç‡ï¼š10.95req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.21kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:271]
+---------------------------------------------------------------
+[ 2018-06-14T15:05:29+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.067429s][ååç‡ï¼š14.83req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.21kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:271]
+---------------------------------------------------------------
+[ 2018-06-14T15:05:35+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.082456s][ååç‡ï¼š12.13req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.21kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:271]
+---------------------------------------------------------------
+[ 2018-06-14T15:05:37+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.093097s][ååç‡ï¼š10.74req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.21kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:271]
+---------------------------------------------------------------
+[ 2018-06-14T15:10:00+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.101467s][ååç‡ï¼š9.86req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.18kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:273]
+---------------------------------------------------------------
+[ 2018-06-14T15:10:03+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.206204s][ååç‡ï¼š4.85req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.18kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:273]
+---------------------------------------------------------------
+[ 2018-06-14T15:10:03+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.090844s][ååç‡ï¼š11.01req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.18kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:273]
+---------------------------------------------------------------
+[ 2018-06-14T15:10:05+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.075117s][ååç‡ï¼š13.31req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.18kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:273]
+---------------------------------------------------------------
+[ 2018-06-14T15:12:14+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.099720s][ååç‡ï¼š10.03req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.18kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:273]
+---------------------------------------------------------------
+[ 2018-06-14T15:12:16+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.154097s][ååç‡ï¼š6.49req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.18kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:273]
+---------------------------------------------------------------
+[ 2018-06-14T15:12:18+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.129749s][ååç‡ï¼š7.71req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.18kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:273]
+---------------------------------------------------------------
+[ 2018-06-14T15:12:25+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.134760s][ååç‡ï¼š7.42req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.18kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:273]
+---------------------------------------------------------------
+[ 2018-06-14T15:27:24+08:00 ] 127.0.0.1 POST /wallet/admin/getData
+[ info ] tp.com/wallet/admin/getData [è¿è¡Œæ—¶é—´ï¼š0.096314s][ååç‡ï¼š10.38req/s] [å†…å­˜æ¶ˆè€—ï¼š2,344.18kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [8]æœªå®šä¹‰å˜é‡: where[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:273]
+---------------------------------------------------------------
+[ 2018-06-14T15:59:10+08:00 ] 127.0.0.1 GET /index.php
+[ info ] api.com/index.php [è¿è¡Œæ—¶é—´ï¼š0.052115s][ååç‡ï¼š19.19req/s] [å†…å­˜æ¶ˆè€—ï¼š1,575.07kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [1]Maximum execution time of 60 seconds exceeded[xÚíTën£F~™HŞühÄ%i‚RWÅ8Æƒ‰Áæ2?vƒ=Æ—Ô‡ïHb§Rß H–a.g¾ó]æ&™N’üP|ÿñ}r…Õş÷ûûœñşÛ{7ùãï?\'w7æør{7™N_¬ùt:y¾éû~:ùíÿçòLÿÚ7!ûöÎb¼XœltV‡®ÒcS Ì.‰<«Ÿ°ot‘lô(iSCåk[2’aJ‡ıYCr»Œ2R˜Zú¨eXŒ2K=¥FKûD^bk4%’[ã±Çª äkMMC_¥oš›}ĞiWG™+]K%¯¹çNêÙ<™ùÊ¯VšcÃy–-‡¹ªâuôEõ3CsÖx‹_¾l5ô‹ÅåéŒE9ô”yÑ¬å
+Î)¯y•]éâ¥p<CŸÙS…4›÷×ÇKT™[µ|íT8gVâ„RäØEà=¤‘¾£œOaıçØ›3Ëˆ¤œBIi±w_:k×°7Êm)ğÚâ½·ò¿ÎCóğ[¡H{¹ô¦±G Ñ ÀQì5ÒØƒ¾ö°)(Z
+cËFë;8÷xŒ2»ÂçÓbğn‰Ôˆk”€N”É¡Î`qæ6ĞÛçY+çı¬—œGĞTd‘ì
+«K¿€x¯µYŸŠsƒŞæà²³¸G 6ğRãì‰ó}óµâK®àK"‹õÅë!p®0mAÿÔbÜ«D†¾óÜÔ—1ÖâxåÌ†ÚÀC<Ã~Ø£À8Ò1xüıµ.Õ•^xıìã©%ì-R¼49Î#htÜ;4‰åXæY²1$ÿXWä(s·¾3Î/|gX CnŠ”ü«Ö»¿ÁH0ç/Å×Ÿhû:WùØ=ä¾wı Yb×Üã8[TÈšİ å‹¯ã”eWàÔÑà›ÔĞ7å~Ô*ùº>5€O®õ)ÔTîÑé‹¸h‡Üm@/ĞˆÈnkß«\‡N›bí>YŸLÉŸ­³G•±sÃ÷‚—éêÂ+E[¢ÌíH‚F<¼¾è›ow±7âİ®4L¹ÇÍ®<€Ê`ğXÅûå§¡÷Eü~Ñİ{¢Ÿ9@§óş-áx>ğŞjà~/¼{±|Û
+ÂØï8Ïı÷CØá~Ã×[1hÒ¬R¥ÆØl÷sİ¡rªğÜŞ¼5f8şÜóq/ù 	à:àJ~n¥yÀ»S4Ü/ğ{«ŞwÒ:õ5/»‹A»•nA?ÉZ()ö¬¡ßl˜¢P™Î~\„x]³k›NnoŸÿæQæ(13) : eval()'d code(1) : eval()'d code:7]
+---------------------------------------------------------------
+[ 2018-06-14T16:04:32+08:00 ] 127.0.0.1 POST /wallet/admin/spuerwallet
+[ info ] api.com/wallet/admin/spuerwallet [è¿è¡Œæ—¶é—´ï¼š0.071384s][ååç‡ï¼š14.01req/s] [å†…å­˜æ¶ˆè€—ï¼š2,676.32kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [1]Call to undefined function app\wallet\controller\string()[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:359]
+---------------------------------------------------------------
+[ 2018-06-14T16:04:43+08:00 ] 127.0.0.1 POST /wallet/admin/spuerwallet
+[ info ] api.com/wallet/admin/spuerwallet [è¿è¡Œæ—¶é—´ï¼š0.066688s][ååç‡ï¼š15.00req/s] [å†…å­˜æ¶ˆè€—ï¼š2,676.32kb] [æ–‡ä»¶åŠ è½½ï¼š56]
+[ error ] [1]Call to undefined function app\wallet\controller\str()[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:359]
+---------------------------------------------------------------
+[ 2018-06-14T17:53:59+08:00 ] 127.0.0.1 POST /wallet/admin/spuerwallet
+[ info ] api.com/wallet/admin/spuerwallet [è¿è¡Œæ—¶é—´ï¼š0.788105s][ååç‡ï¼š1.27req/s] [å†…å­˜æ¶ˆè€—ï¼š2,776.39kb] [æ–‡ä»¶åŠ è½½ï¼š59]
+[ error ] [0]ç¼ºå°‘æ›´æ–°æ¡ä»¶[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:2366]
+---------------------------------------------------------------
+[ 2018-06-14T17:54:47+08:00 ] 127.0.0.1 POST /wallet/admin/spuerwallet
+[ info ] api.com/wallet/admin/spuerwallet [è¿è¡Œæ—¶é—´ï¼š1.025613s][ååç‡ï¼š0.98req/s] [å†…å­˜æ¶ˆè€—ï¼š2,776.42kb] [æ–‡ä»¶åŠ è½½ï¼š59]
+[ error ] [0]ç¼ºå°‘æ›´æ–°æ¡ä»¶[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:2366]
+---------------------------------------------------------------
+[ 2018-06-14T17:58:51+08:00 ] 127.0.0.1 POST /wallet/admin/spuerwallet
+[ info ] api.com/wallet/admin/spuerwallet [è¿è¡Œæ—¶é—´ï¼š0.695554s][ååç‡ï¼š1.44req/s] [å†…å­˜æ¶ˆè€—ï¼š2,776.34kb] [æ–‡ä»¶åŠ è½½ï¼š59]
+[ error ] [0]ç¼ºå°‘æ›´æ–°æ¡ä»¶[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:2366]
+---------------------------------------------------------------
+[ 2018-06-14T18:03:08+08:00 ] 127.0.0.1 POST /wallet/admin/spuerwallet
+[ info ] api.com/wallet/admin/spuerwallet [è¿è¡Œæ—¶é—´ï¼š0.804865s][ååç‡ï¼š1.24req/s] [å†…å­˜æ¶ˆè€—ï¼š2,776.34kb] [æ–‡ä»¶åŠ è½½ï¼š59]
+[ error ] [0]ç¼ºå°‘æ›´æ–°æ¡ä»¶[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:2366]
+---------------------------------------------------------------
+[ 2018-06-14T18:06:47+08:00 ] 127.0.0.1 POST /wallet/admin/spuerwallet
+[ info ] api.com/wallet/admin/spuerwallet [è¿è¡Œæ—¶é—´ï¼š0.920351s][ååç‡ï¼š1.09req/s] [å†…å­˜æ¶ˆè€—ï¼š2,776.31kb] [æ–‡ä»¶åŠ è½½ï¼š59]
+[ error ] [0]ç¼ºå°‘æ›´æ–°æ¡ä»¶[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:2366]
+---------------------------------------------------------------
+[ 2018-06-14T18:23:51+08:00 ] 127.0.0.1 POST /wallet/admin/spuerwallet
+[ info ] api.com/wallet/admin/spuerwallet [è¿è¡Œæ—¶é—´ï¼š0.992867s][ååç‡ï¼š1.01req/s] [å†…å­˜æ¶ˆè€—ï¼š2,777.16kb] [æ–‡ä»¶åŠ è½½ï¼š59]
+[ error ] [0]æ•°æ®è¡¨å­—æ®µä¸å­˜åœ¨:[0][E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Builder.php:111]
+---------------------------------------------------------------
+[ 2018-06-14T18:33:30+08:00 ] 127.0.0.1 POST /wallet/admin/spuerwallet
+[ info ] api.com/wallet/admin/spuerwallet [è¿è¡Œæ—¶é—´ï¼š0.817585s][ååç‡ï¼š1.22req/s] [å†…å­˜æ¶ˆè€—ï¼š2,782.23kb] [æ–‡ä»¶åŠ è½½ï¼š60]
+[ error ] [8]æœªå®šä¹‰å˜é‡: TSefba[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:420]
+---------------------------------------------------------------
+[ 2018-06-14T18:34:16+08:00 ] 127.0.0.1 POST /wallet/admin/spuerwallet
+[ info ] api.com/wallet/admin/spuerwallet [è¿è¡Œæ—¶é—´ï¼š0.654336s][ååç‡ï¼š1.53req/s] [å†…å­˜æ¶ˆè€—ï¼š2,782.05kb] [æ–‡ä»¶åŠ è½½ï¼š60]
+[ error ] [8]æœªå®šä¹‰å˜é‡: 66UmVw[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php:420]
+---------------------------------------------------------------
+[ 2018-06-14T18:35:16+08:00 ] 127.0.0.1 GET /index.php
+[ info ] api.com/index.php [è¿è¡Œæ—¶é—´ï¼š0.041200s][ååç‡ï¼š24.27req/s] [å†…å­˜æ¶ˆè€—ï¼š1,575.05kb] [æ–‡ä»¶åŠ è½½ï¼š49]
+[ error ] [1]Maximum execution time of 60 seconds exceeded[xÚíTën£F~™HŞühÄ%i‚RWÅ8Æƒ‰Áæ2?vƒ=Æ—Ô‡ïHb§Rß H–a.g¾ó]æ&™N’üP|ÿñ}r…Õş÷ûûœñşÛ{7ùãï?\'w7æør{7™N_¬ùt:y¾éû~:ùíÿçòLÿÚ7!ûöÎb¼XœltV‡®ÒcS Ì.‰<«Ÿ°ot‘lô(iSCåk[2’aJ‡ıYCr»Œ2R˜Zú¨eXŒ2K=¥FKûD^bk4%’[ã±Çª äkMMC_¥oš›}ĞiWG™+]K%¯¹çNêÙ<™ùÊ¯VšcÃy–-‡¹ªâuôEõ3CsÖx‹_¾l5ô‹ÅåéŒE9ô”yÑ¬å
+Î)¯y•]éâ¥p<CŸÙS…4›÷×ÇKT™[µ|íT8gVâ„RäØEà=¤‘¾£œOaıçØ›3Ëˆ¤œBIi±w_:k×°7Êm)ğÚâ½·ò¿ÎCóğ[¡H{¹ô¦±G Ñ ÀQì5ÒØƒ¾ö°)(Z
+cËFë;8÷xŒ2»ÂçÓbğn‰Ôˆk”€N”É¡Î`qæ6ĞÛçY+çı¬—œGĞTd‘ì
+«K¿€x¯µYŸŠsƒŞæà²³¸G 6ğRãì‰ó}óµâK®àK"‹õÅë!p®0mAÿÔbÜ«D†¾óÜÔ—1ÖâxåÌ†ÚÀC<Ã~Ø£À8Ò1xüıµ.Õ•^xıìã©%ì-R¼49Î#htÜ;4‰åXæY²1$ÿXWä(s·¾3Î/|gX CnŠ”ü«Ö»¿ÁH0ç/Å×Ÿhû:WùØ=ä¾wı Yb×Üã8[TÈšİ å‹¯ã”eWàÔÑà›ÔĞ7å~Ô*ùº>5€O®õ)ÔTîÑé‹¸h‡Üm@/ĞˆÈnkß«\‡N›bí>YŸLÉŸ­³G•±sÃ÷‚—éêÂ+E[¢ÌíH‚F<¼¾è›ow±7âİ®4L¹ÇÍ®<€Ê`ğXÅûå§¡÷Eü~Ñİ{¢Ÿ9@§óş-áx>ğŞjà~/¼{±|Û
+ÂØï8Ïı÷CØá~Ã×[1hÒ¬R¥ÆØl÷sİ¡rªğÜŞ¼5f8şÜóq/ù 	à:àJ~n¥yÀ»S4Ü/ğ{«ŞwÒ:õ5/»‹A»•nA?ÉZ()ö¬¡ßl˜¢P™Î~\„x]³k›NnoŸÿæQæ(13) : eval()'d code(1) : eval()'d code:7]
+---------------------------------------------------------------
+[ 2018-06-14T19:33:02+08:00 ] 127.0.0.1 POST /wallet/admin/postinter
+[ info ] api.com/wallet/admin/postinter [è¿è¡Œæ—¶é—´ï¼š0.775397s][ååç‡ï¼š1.29req/s] [å†…å­˜æ¶ˆè€—ï¼š2,426.28kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [0]æ•°æ®è¡¨å­—æ®µä¸å­˜åœ¨:[addr][E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Builder.php:111]
+---------------------------------------------------------------
+[ 2018-06-14T19:34:55+08:00 ] 127.0.0.1 POST /wallet/admin/postinter
+[ info ] api.com/wallet/admin/postinter [è¿è¡Œæ—¶é—´ï¼š0.545769s][ååç‡ï¼š1.83req/s] [å†…å­˜æ¶ˆè€—ï¼š2,426.45kb] [æ–‡ä»¶åŠ è½½ï¼š55]
+[ error ] [4096]Argument 1 passed to think\db\Query::update() must be of the type array, string given, called in E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AdminController.php on line 502 and defined[E:\phpstudy2\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Query.php:2335]

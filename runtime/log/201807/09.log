@@ -1,0 +1,24 @@
+---------------------------------------------------------------
+[ 2018-07-09T13:51:49+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：11.069197s][吞吐率：0.09req/s] [内存消耗：1,870.18kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-09T13:53:42+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：8.477502s][吞吐率：0.12req/s] [内存消耗：1,870.22kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-09T13:54:42+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：5.601737s][吞吐率：0.18req/s] [内存消耗：1,870.50kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-09T13:57:10+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：14.330468s][吞吐率：0.07req/s] [内存消耗：1,870.50kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-09T14:19:38+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：8.466372s][吞吐率：0.12req/s] [内存消耗：1,870.63kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as sdt INNER JOIN wallet_group_user as group_user on sdt.userid=group_user.user_' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]
+---------------------------------------------------------------
+[ 2018-07-09T14:20:39+08:00 ] 127.0.0.1 POST /wallet/admin/getTotalData
+[ info ] api.com/wallet/admin/getTotalData [运行时间：12.256110s][吞吐率：0.08req/s] [内存消耗：1,870.95kb] [文件加载：52]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as sdt INNER JOIN wallet_group_user as group_user on sdt.userid=group_user.user_' at line 1[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\db\Connection.php:390]

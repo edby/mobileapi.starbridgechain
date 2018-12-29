@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2018-09-26T11:00:47+08:00 ] 127.0.0.1 POST /wallet/newcheckin/updateFloat
+[ info ] api.com/wallet/newcheckin/updateFloat [运行时间：0.217320s][吞吐率：4.60req/s] [内存消耗：2,627.11kb] [文件加载：58]
+[ error ] [8]未定义变量: btc[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\NewcheckinController.php:530]
+---------------------------------------------------------------
+[ 2018-09-26T11:14:09+08:00 ] 127.0.0.1 POST /wallet/allocation/updateFloat
+[ info ] api.com/wallet/allocation/updateFloat [运行时间：0.122593s][吞吐率：8.16req/s] [内存消耗：2,798.27kb] [文件加载：58]
+[ error ] [8]未定义数组索引: id[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:1406]
+---------------------------------------------------------------
+[ 2018-09-26T15:36:03+08:00 ] 127.0.0.1 GET /wallet/allocation/dividend
+[ info ] api.com/wallet/allocation/dividend [运行时间：0.156932s][吞吐率：6.37req/s] [内存消耗：2,025.83kb] [文件加载：50]
+[ error ] [0]方法参数错误:ip[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\thinkphp\library\think\App.php:431]

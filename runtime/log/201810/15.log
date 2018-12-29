@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-10-15T17:46:05+08:00 ] 127.0.0.1 POST /wallet/allocation/lockSdt
+[ info ] api.com/wallet/allocation/lockSdt [运行时间：0.429632s][吞吐率：2.33req/s] [内存消耗：2,929.29kb] [文件加载：61]
+[ error ] [2]Illegal string offset 'batch'[E:\phpStudy\PHPTutorial\WWW\mobileapi.starbridgechain.com\application\wallet\controller\AllocationController.php:1212]
